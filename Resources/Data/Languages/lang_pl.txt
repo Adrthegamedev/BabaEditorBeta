@@ -1,0 +1,1751 @@
+[general]
+name=Polski
+customfont=0
+[texts]
+main_start=rozpocznij grę
+settings=ustawienia
+main_custom=poziomy niestandardowe
+main_editor=edytor poziomów
+credits=autorzy
+main_exit=wyjdź z gry
+
+ingame_victory=gratulacje!
+ingame_clear=mapa skończona!
+ingame_complete=mapa ukończona!
+ingame_infiniteloop=nieskończona pętla
+
+resume=kontynuuj
+restart=restart
+return=powrót
+
+pause_returnmap=powróć do mapy
+pause_returnmain=powróć do menu
+
+settings_music=głośność muzyki
+settings_sound=głośność dźwięku
+settings_repeat=opóźnienie wejść
+controls=sterowanie
+settings_language=ustawienia języka
+lang_setup=wybierz język, który chciałbyś użyć
+settings_fullscreen=przełącz pełne okno
+settings_grid=włącz siatkę
+settings_wobble=wyłącz drżenie ekranu
+settings_particles=wyłącz efekty cząsteczek
+settings_shake=wyłącz trzęsenie ekranu
+settings_palette=wymuś wysokokontrastowe kolory
+settings_restart=nie wywołuj przy restarcie
+settings_zoom=przybliżenia
+zoom1=brak
+zoom2=podstawowe
+zoom3=rozciągnięte
+please_restart=ta opcja wymaga restartu gry.
+
+lang_restart=czy jesteś pewien? gra zostanie zrestarowana, jeżeli wybierzesz 'tak'.
+
+customlevels=wybierz świat, w który chcesz zagrać
+
+controls_setup=ustawienia sterowania
+controls_noconnectedgamepad=nie znaleziono pada.
+controls_gamepadname=nazwa pada
+controls_unknowngamepad=nieznany pad
+controls_detectgamepad=wykryj pad
+controls_gamepadsetup=ustawienia pada
+controls_defaultgamepad=podstawowe sterowania pada
+controls_keysetup=ustawienia klawiatury
+controls_defaultkey=podstawowe ustawienia klawiatury
+move=ruch
+idle=bezczynny
+undo=cofnij
+controls_restart=restart
+confirm=potwierdź
+pause=pauza
+right=prawo
+up=góra
+left=lewo
+down=dół
+controls_pressany=kliknij dowolny przycisk...
+
+restart_confirm=czy jesteś pewien, że chcesz zrestartować?
+restart_tip=możesz wyłączyć ten komunikat w ustawieniach
+no=nie
+yes=tak
+cancel=anuluj
+
+enterlevel_multiple=wybierz poziom, do którego chcesz wejść
+
+slot=zapis
+slots_select=wybierz zapis
+slots_erase=wymaż zapis
+erase_select=wybierz zapis, który chcesz wymazać
+erase_confirm=czy jesteś pewien, że chcesz usunąć ten zapis?
+erase_tip=(wszystkie zapisane dane będą stracone!)
+intro_confirm=czy chcesz obejrzeć intro?
+
+ending=dziękuję za grę!
+
+rules=zasady
+level=poziom
+
+credits_designetc=projekt, kod itd
+credits_audio=muzyka i efekty dźw.
+credits_audioconsult=konsultacja ws. dźwięków
+credits_porting=port gry
+credits_testers=testerzy
+credits_translation=tłumaczenia
+credits_help=pomoc followerów ze streama
+credits_helprest=i pozostałych
+credits_thanks=dzięki
+credits_gamejams=ogólnie game jamom
+credits_indies=kilku innych społeczności indie
+credits_dogs=dobre pieski
+credits_dogs2=także inne pieski
+credits_specialthanks=specialne podziękowania
+credits_anni1=otucha, opinie & wsparcie
+credits_anni2=po- cały projekt
+credits_lukas1=mnóstwo pomocy i wsparcia
+credits_lukas2=- te lata
+credits_mokesmoe1=opinie, pomoc w projekcie oraz
+credits_mokesmoe2=mnóstwo bezinteresownej pomocy
+credits_alan1=odczucia oraz pomoc w projektowaniu &
+credits_alan2=sprawy dotyczące indie
+credits_music=muzyka stworzona używając
+credits_musicby=zrobiona -
+credits_mmfby=zrobiona -
+credits_sound=dźwięki i instrumenty zrobione przy pomocy
+credits_audacity=the audacity team
+credits_freesound=dźwięki z freesound.org:
+credits_extensions=rozszerzenia z mmf2 użyte:
+credits_madeusing=ta gra została stworzona używając
+pluralby=-
+singularby=-
+by=-
+
+intro_mp2=portowane - $4,1mp2 games
+intro_mmf2=zrobione - $4,1multimedia fusion 2$0,3 - clickteam
+intro_madeby=gra stworzona - $4,1arvi teikari
+intro_charity=$4,110% $0,3z przychodów dewelopera dawane jest $2,4organizacjom charytatywnym
+
+editor_newworld=stwórz nowy świat
+editor_newtheme=stwórz nowy motyw
+editor_editworld=wybierz świat, który chcesz edytować
+editor_editlevel=wybierz poziom, który chcesz edytować
+editor_newlevel=stwórz nowy poziom
+editor_editthemes=edytuj motywy
+editor_returntoworldlist=powróć do listy światów
+editor_setfirstlevel=ustaw pierwszy poziom
+editor_setdefaultlevel=ustaw podstawowy poziom
+editor_entername=wpisz nazwę
+
+editor_theme_edit=wybierz motyw, który chcesz edytować
+editor_theme_use=wybierz motyw, którego chcesz użyć
+editor_theme_return=powróć do ustawień poziomu
+
+editor_mainmenu=menu
+editor_objectlist=lista obiektów
+editor_changelayer=zmień warstwę
+editor_savelevel=zapisz
+editor_addlevel=dodaj poziom
+editor_setcursor=ustaw kursor
+editor_addpath=połóż ścieżkę
+editor_setpath=ustawienia ścieżki
+
+editor_objectlist_add=dodaj nowy obiekt...
+editor_objectlist_remove=usuń obieky
+editor_objectlist_object=normalne obieky
+editor_objectlist_text=tekstowe obiekty
+editor_objectlist_verb=czasownik
+editor_objectlist_quality=cechy
+editor_objectlist_conditional=warunki
+editor_objectlist_special=tekst specialny
+
+editor_level_leveltarget=do którego poziomu to prowadzi
+editor_level_iconcolour=kolor ikony
+editor_level_initialstate=stan przy uruchomieniu
+editor_level_initialstate_hidden=ukryty
+editor_level_initialstate_normal=normalny
+editor_level_initialstate_opened=otwarty
+editor_level_levelsymbol=styl symbolu
+editor_level_levelsymbol_none=żaden
+editor_level_levelsymbol_numbers=cyfry
+editor_level_levelsymbol_text=tekst
+editor_level_levelsymbol_dots=kropki
+editor_level_levelsymbol_symbol=symbol
+
+editor_path_pathstate=wybierz startowy stan ścieżki
+editor_path_pathstate_hidden=uktyty
+editor_path_pathstate_visible=widoczny
+editor_path_locked=czy ta ścieżka jest zablokowana?
+editor_path_locked_levels=przejścia poziomu
+editor_path_locked_maps=przejścia mapy
+
+editor_menu_close=zamknij menu
+editor_menu_return=powrót do listy poziomów
+editor_menu_rename=zmień nazwę poziomu
+editor_menu_changetheme=zmień motyw poziomu
+editor_menu_changepalette=zmień paletę poziomu
+editor_menu_objectsetup=ustawienia obiektu
+editor_menu_mapsetup=ustawienia związane z mapą
+editor_menu_delete=usuń poziom
+editor_menu_levelsize=zmień wymiary poziomu
+
+editor_delete_confirm=czy na pewno usunąć ten poziom?
+
+editor_palette_select=wybierz paletę kolorów, którą chcesz użyć
+
+editor_map_leveltype=wybierz typ poziomu
+editor_map_level=poziom
+editor_map_map=mapa
+editor_map_clearlimit=ilość poziomów potrzebna do przejścia
+editor_map_clearlimit_hint=(zero -> niemożliwe do przejścia)
+editor_map_mapicon=ustawienia ikony mapy
+editor_map_returnto=poziom, do którego powrócić po przejściu
+editor_map_parentlevel=wyższy poziom
+editor_map_selectlevel=wybierz poziom
+
+editor_objectsetup_palette=zmień paletę...
+editor_objectsetup_select=wybierz obiekt, który chcesz edytować
+
+editor_object_sprite=zmień teksturę...
+editor_object_name=zmień nazwę...
+editor_object_type=zmień typ...
+editor_object_colour_base=bazowy kolor
+editor_object_colour_active=aktywny kolor
+editor_object_colour_select=jakiego koloru powinien używać ten objekt?
+editor_object_animation=styl animacji
+editor_object_animation_none=żadne
+editor_object_animation_dirs=kierunki
+editor_object_animation_anim=animowane
+editor_object_animation_animdirs=kierunki anim.
+editor_object_animation_character=postać
+editor_object_animation_tiled=kafelkowe
+editor_object_text_type=typ textu
+editor_object_text_manualtype=manualny wybór typu tekstu
+editor_object_zlevel=poziom z
+editor_object_reset=resetuj wszystkie wartości
+
+0level=baba is you
+0level_subtitle=witaj w baba is you
+100level=miłość od pierwszego wejżenia
+101level=napad
+102level=pracownik zakładowy
+103level=za kulisami - stare
+104level=ruchy tektoniczne
+105level=tasowanie
+106level=mapa
+106level_mapid=mapa
+107level=zgromadzenie
+109level=dołącz do drużyny
+10level=przywiązanie
+110level=powódź lawowa
+111level=mierzyć wysoko
+112level=trio
+113level=ognista otchłań
+114level=krucha egzystencja - stare
+115level=ciężkie słowa
+116level=czym jest baba?
+117level=wroga okolica
+118level=wyniesione platformy
+119level=automaton
+11level=samotna flaga
+120level=łącznik
+122level=tunel
+124level=spokojne miejsce
+125level=ciężka chmura
+126level=kotlarstwo
+127level=sekretny ogród
+128level=spotkanie
+129level=dalekie pola
+12level=oddzielony - ciecze
+130level=nadrost
+132level=droga bez powrotu
+134level=wątły sygnał
+135level=niekończący się korytarz
+136level=meduzowy tron
+137level=nie tam
+138level=na pewno nie tam
+139level=szczelina
+13level=babas are you
+140level=mocne fortyfikacje
+141level=skala
+142level=na morzu
+143level=mieszkanie
+144level=gorący ziemniak - stare
+145level=lewe drzwi
+146level=rozdarty w pół
+148level=wycieczka
+14level=bardzo zamknięty korytarz
+150level=blokada
+151level=konkretne zamiary
+152level=próba grzybów
+154level=sekretny ogród
+155level=metapoznanie
+156level=keke i gwiazda
+15level=ślusarz amator
+160level=berek
+163level=automatyzowane drzwi
+164level=wielozadaniowy
+165level=odwiedzając babę
+166level=włamanie
+167level=aleja
+168level=labirynt ostateczny
+169level=5. głęboki las
+169level_mapid=las
+16level=4. las jesieni
+16level_mapid=jesień
+171level=budowanie mostów
+172level=budowanie mostów?
+173level=...mosty?
+174level=ślepa uliczka
+175level=złamany
+176level=zamknięty
+177level=1. jezioro
+177level_mapid=jezioro
+178level=rozbite oczekiwania
+179level=8. wulkaniczna grota
+179level_mapid=grota
+17level=nieosiągalne brzegi
+180level=7. kwiecisty ogród
+180level_mapid=ogród
+182level=9. otchłań
+182level_mapid=otchłań
+188level=trojaczki
+189level=co to ma być?
+18level=entropia
+191level=ruchoma podłoga
+192level=zakłócenie
+193level=waląca się podłoga
+194level=nawiedzenie
+195level=samotność
+196level=orzechowa nora - hazel den
+196level_subtitle=stworzony - alana hazelden'a
+197level=błąd
+198level=kres
+198level_mapid=<empty>
+199level=kruchość
+19level=szukając serca
+1level=gdzie mam iść?
+200level=???
+200level_mapid=???
+201level=horror
+203level=wyjście?
+203level_mapid=finał
+204level=klucz
+205level=unosić się
+206level=3. ruiny świątyni 
+206level_mapid=ruiny
+207level=2. odludna wyspa
+207level_mapid=wyspa
+208level=gość
+209level=zamek
+20level=lodowate wody
+210level=para drzwi
+211level=zatopione ruiny
+212level=kolejki
+213level=ruch
+215level=odparowywująca rzeka
+216level=platformer
+217level=podniebny podtrzymywacz
+218level=ciepła rzeka
+219level=wrząca rzeka
+21level=kamienne więzienie
+220level=plac skrzynek
+221level=wielki spływ
+222level=ukryty relikt
+223level=zakopany skarb
+226level=dziura
+227level=niedobry płot
+230level=zespół
+231level=miejsce dla vipów
+232level=10. szczyt
+232level_mapid=szczyt
+233level=malutkie pastwisko
+234level=źródełko zwycięstwa
+235level=kocie łby
+236level=bezzmienny
+238level=podskok
+239level=skok
+23level=ale gdzie jest klucz
+240level=skarbnica
+241level=oblężenie
+242level=stanowisko sortujące
+243level=pokaz slajdów
+245level=krucha egzystencja
+246level=szopa
+247level=skręcanie
+248level=supermarket
+24level=cmentarz
+250level=napięta atmosfera
+251level=siłownia
+252level=ba
+253level=ab
+255level=księżycowa wystawa
+256level=po godzinach
+257level=prawie
+259level=podwójne ocieplenie
+25level=śluza
+260level=prześlizgiwać się
+261level=serwis sprzątający
+262level=wysiłek drużynowy
+263level=zgniatacze
+264level=głębiny
+264level_mapid=głębiny
+265level=żywe tereny
+266level=filar
+267level=forteca
+268level=ocieplenie
+269level=aport
+26level=duch u straży
+270level=za kulisami
+271level=ratunek
+272level=parada
+274level=kolejka priorytetowa
+275level=kontrola
+276level=pociąg
+277level=pudełko
+279level=kolejka
+280level=ściana
+281level=deszcz meteorytów
+282level=abc
+282level_mapid=abc
+283level=meta
+283level_mapid=meta
+284level=kłak
+285level=puszka
+286level=spotykanie się
+286level_mapid=sekret
+287level=przygoda
+288level=gorący ziemniak
+289level=akrobatyka
+28level=fabryka
+290level=słowo - teraz zepsute
+291level=lawina
+292level=włamanie
+293level=co?
+293level_mapid=sekret
+294level=zasłużona nagroda
+294level_mapid=sekret
+295level=jeżynowe ciernie
+296level=x to y 2
+297level=wspólne uczucia
+298level=delikatna gwiazdka
+299level=ukryta ścieżka
+29level=zniszczony plac zabaw
+2level=nadal poza zasięgiem
+300level=działo
+302level=psikus
+303level=po prostu nie
+304level=centrum
+304level_mapid=<empty>
+305level=wystawa
+305level_mapid=<empty>
+306level=kula
+306level_mapid=sekret
+307level=malownicze jeziorko
+308level=głęboki basen
+309level=powrót malowniczego jeziorka
+30level=magazyn krabów
+310level=poemat
+311level=klucze
+312level=nowy tele
+313level=ułamek gwiazdy
+314level=zatonięta świątynia
+315level=piękny domek
+317level=słomka
+318level=loch
+319level=placówka badawcza
+31level=przelotny warunek
+320level=inna droga
+320level_mapid=sekret
+321level=bezpieczna chatka
+322level=majestatyczne kolumny
+323level=generator mocy
+324level=kryzys egzystencjonalny
+325level=bez przyjaciół
+326level=podscenie
+327level=prr
+327level_mapid=sekret
+33level=miłość jest o krok
+34level=baba nie odpowiada
+35level=liściasta komnata
+36level=mój przyjaciel duch
+37level=tycie oczko
+38level=zasady parku publicznego
+39level=kolonia
+3level=poza zasięgiem
+40level=niebezpieczny ogród
+41level=malutka wysepka
+46level=niezbędne składniki
+47level=niebezpieczeństwo na każdym kroku
+48level=najuniesieńsze platformy
+49level=powrót do podstaw
+4level=ogród kolumn
+50level=niemal
+51level=koronacja
+52level=zwodne skupienie
+53level=forteca
+54level=dom czaszki
+56level=ściany ze złota
+57level=patrol
+58level=prezent dla ciebie
+59level=warunek
+5level=niedostępny
+60level=samotny widok
+61level=ćwiartki
+62level=telefon
+64level=wodne przygody
+65level=więzienie
+66level=renowacja
+67level=zamknij drzwi
+68level=zdalne sterowanie
+69level=wynoś się!
+6level=trawiasty ogród
+70level=szkieletowe drzwi
+71level=niebezpieczny gang
+72level=podwójna fosa
+73level=mech na moim progu
+74level=skrzyżowania
+75level=kominek
+77level=alfabetyzm
+78level=?
+78level_mapid=?
+79level=zator
+7level=łapać złodzieja!
+80level=proszę trzymaj mój klucz
+82level=obrońcy
+84level=ups
+85level=kanion
+86level=winda
+87level=6. wycieczka rakietą
+87level_mapid=kosmos
+89level=zniszczony sad
+8level=zamknięty
+90level=wulkan
+91level=zjednoczenie przechodźców
+92level=poszukiwacze przygód
+93level=ceglana ściana
+94level=gąszcz
+95level=mysia nora
+96level=harmonia
+97level=pola baby
+98level=zwycięstwo w zasięgu wzroku
+99level=szukając akceptacji
+9level=pusty
+n1level=baba has keke
+n1level_subtitle=stworzone - nicklasa nygren'a
+n2level=spór o mur
+n2level_subtitle=stworzone - nicklasa nygren'a
+t1level=po drugiej stronie
+t1level_subtitle=stworzone - corey'a martin'a
+
+ingame_toocomplex=zbyt skomplikowane!
+
+
+pause_returneditor=powrót do edytora
+pause_returnplaylevels=powrót do listy poziomów
+pause_reportlevel=zgłoś poziom
+
+
+settings_repeat_m=opóźnienie ruchu
+settings_blinking=wyłącz migające kolory
+
+
+controls_disablegamepad_off=wyłącz połączenie z kontrolerem
+controls_disablegamepad_on=włącz połączenie z kontrolerem
+controls_disablestick=wyłącz gałki analogowe
+
+
+undefined=nieokreślony
+none=brak
+
+
+restart_confirm_m=zacząć od nowa?
+restart_tip_m_1=ta podpowiedź może zostać
+restart_tip_m_2=wyłączona w ustawieniach
+enterlevel_multiple_m=wybierz poziom
+erase_confirm_mobile=czy naprawde chcesz usunąć ten zapis?
+erase_tip_mobile=(wszystkie zapisane dane zostaną utracone!)
+mobile_tuto1a=Przesuń palec w danym kierunku, aby ruszyć dalej
+mobile_tuto1b=Nie ruszaj palcem, aby zaczekać
+mobile_tuto1c=Naduś i trzymaj dwoma palcami, aby cofnąć
+mobile_tuto2a=Przesuń, aby ruszyć kursorem
+mobile_tuto2b=oraz wybierz poziom, który chcesz zagrać
+mobile_tuto2c=Naduś i trzymaj, aby zagrać w dany poziom
+
+
+customlevels_pack=wybierz paczkę poziomów, w którą chcesz zagrać
+customlevels_single=wybierz poziom, w który chcesz zagrać
+
+
+customlevels_play_singular=zagraj we własne poziomy
+customlevels_play_pack=zagraj w paczki poziomów
+customlevels_play_get=szukaj nowych poziomów
+customlevels_play_getlist=historia poziomów
+customlevels_play_changename=zmień nazwę zapisu
+customlevels_play_eraseslot=usuń zapisane dane w zapisie
+customlevels_play_eraseslot_tip=(ta akcja usunie wszystkie dane związane z paczkami poziomów oraz poziomów innych użytkowników)
+
+
+customlevels_pack_emptysave=brak danych zapisu
+customlevels_delete=usuń
+customlevels_forget=usuń zapis
+customlevels_deleteconfirm_single=czy jesteś pewien, że chcesz usunąć ten poziom?
+customlevels_deleteconfirm_pack=czy jesteś pewien, że chcesz usunąć dane zapisu dla tej paczki poziomów?
+
+customlevels_get=znaleziono poziom
+customlevels_get_save=zapisz dany poziom
+customlevels_get_nosave=zagraj bez zapisu
+customlevels_get_cancel=nieważne
+customlevels_get_fail=błąd podczas pobierania poziomu
+customlevels_get_fail_reason=błąd
+customlevels_get_saved=poziom zapisany
+customlevels_get_play=zagraj w dany poziom
+customlevels_get_levellist=wyświetl poziomy innych
+customlevels_get_wait=pobieranie...
+customlevels_getlist=wcześniej przeglądane poziomy
+customlevels_getlist2=(naciśnij aby pobrać i skopiować do schowka)
+customlevels_getlist_download=pobrane poziomy
+customlevels_getlist_upload=przesłane poziomy
+
+
+playlevels_get_featured=wyróżnione poziomy
+playlevels_get_new=najnowsze poziomy
+playlevels_get_code=użyj kodu poziomu
+playlevels_featured_fail=nie udało się pobrać listy poziomów
+playlevels_featured_fail_reason=błąd
+playlevels_featured_wait=Pobieranie listy poziomów...
+
+
+reportlevel_confirm=czy na pewno chcesz zgłosić ten poziom?
+reportlevel_success=poziom zgłoszony pomyślnie!
+reportlevel_fail=zgłaszanie poziomu nie powiodło się.
+reportlevel_ok=powrót
+
+
+credits_words=pomysły na słowa
+credits_thankyou=dziękuję za zagranie!
+
+
+intro_hold=przytrzymaj, aby pominąć wstęp
+
+
+image_desc_1=Bardzo wczesna wersja gry.
+image_desc_2=Makiety poziomów w trakcie doskonalenia szaty graficznej.
+image_desc_3=Wczesne testy z różnymi paletami kolorów.
+image_desc_4=Bardzo wczesna wersja głównej mapy.
+image_desc_5=Tak miała wyglądać pierwsza mapa.
+image_desc_6=Pierwsze wersje nie abstrakcyjnej mapy.
+image_desc_7=Doskonalenie mechaniki “pull”.
+image_desc_8=Akwarela - Tytuł.
+image_desc_9=Akwarela - Kosmos.
+image_desc_10=Akwarela - Keke.
+image_desc_11=Nagłe inspiracje doprowadziły do trzy ocznej Baby.
+image_desc_12=System “Push” był bardzo trudny do skonstruowania.
+image_desc_13=Kilka notatek, po Fińsku!
+image_desc_14=Makieta mapy.
+image_desc_15=Próby nanoszenia podstawowych obiektów na mapę.
+image_desc_16=Diagram związków pomiędzy poziomami.
+
+
+editor_start_title=witaj w edytorze poziomów!
+editor_start_level=edytuj własne poziomy...
+editor_start_world=edytuj paczki poziomów...
+editor_start_settings=pomoc i ustawienia ogólne
+
+
+editor_settings_controls=ustawienia sterowania edytora
+editor_settings_advanced=włącz zaawansowane słowa
+editor_settings_mod=włącz dodatkowe funkcje
+editor_settings_tips=wyłącz podpowiedzi przycisków kontrolera
+editor_settings_tips_n=wyłącz podpowiedzi przycisków
+editor_settings_slide=wyłącz efekty wizualne edytora
+editor_settings_help=samouczki i przyciski
+editor_settings_music=wyłącz własną muzykę edytora
+editor_settings_hotkeys=pokaż listę przycisków edytora
+editor_settings_defaultpad=podstawowe ustawienia kontrolera
+
+
+editor_tutorial1=Samouczek 1: Wstęp
+editor_tutorial2=Samouczek 2: Edytowanie poziomów
+editor_tutorial3=Samouczek 3: Narzędzia do edytowania
+editor_tutorial4=Samouczek 4: Paleta obiektów
+editor_tutorial5=Samouczek 5: Ustawienia poziomów
+editor_tutorial6=Samouczek 6: Wysyłanie poziomów
+editor_tutorial7=Samouczek 7: Pobieranie poziomów
+editor_tutorial8=Samouczek 8: Zaawansowane skróty klawiszowe
+editor_tutorial9=Samouczek 9: Rady dotyczące tworzenia poziomów
+editor_tutorial10=Samouczek 10: Pokonanie smoka
+
+
+editor_editworld_none=nie znaleziono światów
+
+
+editor_levellist_return=wróć do menu edytora
+editor_levellist_returnworld=wróć do listy paczek poziomów
+editor_levellist_new=utwórz nowy poziom
+editor_levellist_edit=wybierz poziom, który chcesz edytować
+editor_levellist_page=strona
+editor_levellist_setstart=ustaw pierwszy poziom
+editor_levellist_setauthor=zmień autora
+editor_levellist_setname=zmień nazwę
+editor_levellist_setmap=ustaw mapę świata
+editor_levellist_levels=własne poziomy
+editor_levellist_sort=sortuj po nazwie
+editor_levellist_sorttypes=sortuj po typie
+editor_levellist_search=szukaj
+editor_levellist_removesearch=zresetuj wyszukiwanie
+
+
+editor_editormenu=menu edytora
+editor_settingsmenu=ustawienia
+editor_l1=l1
+editor_l2=l2
+editor_l3=l3
+editor_undo=cofnij
+editor_swap=zamień
+editor_testlevel=przetestuj poziom
+editor_test=test
+
+
+editor_brush_normal=obiekty
+editor_brush_level=poziomy
+editor_brush_path=ścieżki        
+editor_brush_special=specjalne
+
+
+editor_objectlist_editobject=edytuj obiekt
+editor_objectlist_pairs_yes=pokaż wszystkie
+editor_objectlist_pairs_no=połącz pary
+
+
+tooltip_currobjlist_add=Dodaj nową nazwę do swojej palety
+tooltip_currobjlist_remove=Usuń obiekt z palety
+tooltip_currobjlist_editobject=Edytuj ustawienia obiektu
+tooltip_currobjlist_dopairs=Zmień pomiędzy wszystkimi obiektami a parami z ich odpowiednimi słowami
+tooltip_currobjlist_tool_normal=Rysuj
+tooltip_currobjlist_tool_line=Linia
+tooltip_currobjlist_tool_rectangle=Pusty prostokąt
+tooltip_currobjlist_tool_fillrectangle=Wypełniony prostokąt
+tooltip_currobjlist_tool_fill=Wypełnienie
+tooltip_currobjlist_tool_erase=Gumka
+tooltip_currobjlist_tool_select=Zaznaczenie
+tooltip_currobjlist_search_edit=Znajdź obiekty po nazwie
+tooltip_currobjlist_search_remove=Zresetuj wyszukiwanie
+tooltip_currobjlist_search_tags=Filtruj obiekty z tagami
+tooltip_currobjlist_return=Powróć do widoku edytora
+tooltip_currobjlist_swap=Zamień obiekty ze słowami
+tooltip_currobjlist_dir_right=Obróć postawione obiekty w prawo
+tooltip_currobjlist_dir_up=Obróć postawione obiekty w górę
+tooltip_currobjlist_dir_left=Obróć postawione obiekty w lewo
+tooltip_currobjlist_dir_down=Obróć postawione obiekty w dół
+
+
+tooltip_quickmenu_editorsettingsmenu=Zmień ustawienia poziomu (nazwa, paleta, muzyka…)
+tooltip_quickmenu_editormenu=Wstaw poziom, wróć do listy, usuń poziom itd.
+
+
+tooltip_editor_menu=Wstaw poziom, wróć do listy, usuń poziom itd.
+tooltip_editor_settingsmenu=Zmień ustawienia poziomu (nazwa, paleta, muzyka…)
+tooltip_editor_objects=Wybierz, edytuj, dodaj lub usuń obiekty z palety obiektów
+tooltip_editor_save=Zapisz poziom
+tooltip_editor_undo=Cofnij swoje kroki
+tooltip_editor_swap=Zamień obiekty z odpowiednimi słowami
+tooltip_editor_layer=Nawiguj między warstwami
+tooltip_editor_test=Testuj poziom w danym stanie
+tooltip_editor_menu_test=Przeprowadź próbę poziomu w danym stanie
+tooltip_editor_menu_upload=Wrzuć swój poziom do internetu! Oczywiście, musi być możliwy do przejścia
+tooltip_editor_menu_theme=Użyj szablonu palet dla tego poziomu. Sprawi, że poziom będzie pusty
+tooltip_editor_menu_return=Wróć do listy poziomów. Niezapisane zmiany zostaną usunięte
+tooltip_editor_menu_returnfull=Wróć do menu głównego edytora. Niezapisane zmiany zostaną usunięte
+tooltip_editor_menu_delete=Całkowicie usuń poziom. Uwaga, nieodwracalne!
+tooltip_editor_menu_copy=Stwórz kopię poziomu (kopia będzie miała numer obok nazwy)
+
+
+buttons_editor_move=Przenieś
+buttons_editor_rotate=Obróć
+buttons_editor_place=Postaw
+buttons_editor_copy=Kopiuj
+buttons_editor_drag=Przeciągnij
+buttons_editor_undo=Cofnij
+buttons_editor_scrollleft_hotbar=< Pasek narzędzi
+buttons_editor_scrollright_hotbar=Pasek narzędzi >
+buttons_editor_scrollleft_tool=< Narzędzie
+buttons_editor_scrollright_tool=Narzędzie >
+buttons_editor_currobjlist=Paleta obiektów
+buttons_editor_quickmenu=Szybkie menu
+buttons_editor_swap=Zamień
+buttons_editor_scrollleft_layer=< Warstwa
+buttons_editor_scrollright_layer=Warstwa >
+buttons_editor_moveall=Przenieś wszystko
+buttons_editor_altpress=Więcej przycisków
+buttons_editor_cut=Wytnij
+buttons_editor_lock=Zablokuj pole
+buttons_editor_showdir=Pokaż kierunki
+buttons_editor_autopick=Wybierz po ciągu znaków
+buttons_editor_pickempty=Wybierz puste
+buttons_editor_selection_rotate_right=Obróć >
+buttons_editor_selection_rotate_left=< Obróć
+buttons_editor_selection_mirror=Lustrzane odbicie
+buttons_editor_selection_flip=Odwróć
+buttons_editor_selection_place=Postaw
+buttons_editor_selection_cancel=Anuluj
+buttons_editor_selection_ignore=Ignoruj puste
+buttons_editor_emptytile=Wyczyść
+buttons_editor_empty_hotbar=Puste pole
+buttons_editor_test=Testuj poziom
+buttons_editor_save=Zapisz poziom
+
+
+editor_toolindicator_eraser=Q - Wybierz puste
+
+
+editor_saved=Poziom zapisany!
+
+
+buttons_currobjlist_move=Przenieś
+buttons_currobjlist_select=Wybierz
+buttons_currobjlist_swap=Zamień
+buttons_currobjlist_drag=Przeciągnij
+buttons_currobjlist_tooltip=Podpowiedzi
+buttons_currobjlist_scrollleft=< Pasek narzędzi
+buttons_currobjlist_scrollright=Pasek narzędzi >
+buttons_currobjlist_closemenu=Zamknij menu
+buttons_currobjlist_tags=Tagi
+buttons_currobjlist_remove=Usuń
+buttons_currobjlist_edit=Edytuj
+buttons_currobjlist_addnew=Dodaj
+buttons_currobjlist_search=Szukaj
+buttons_currobjlist_autoadd=Dodaj po ciągu znaków
+buttons_currobjlist_removesearch=Zresetuj wyszukiwanie
+
+
+editor_objectlist_objlist=Lista obiektów
+editor_objectlist_result=Wyszukaj
+editor_objectlist_tag=tag
+editor_objectlist_tags=tagi
+editor_objectlist_tags_select=tagi
+editor_objectlist_tags_cleartags=Wyczyść tagi
+editor_objectlist_search_edit=edytuj szukanie
+editor_objectlist_search_remove=Wyczyść szukanie
+editor_objectlist_search_none=Brak filtrów wyszukiwania lub tagów
+editor_objectlist_page=strona
+editor_objectlist_nothing=wybierz nic
+
+
+editor_level_levelsetup=ustawienia poziomu
+editor_level_setcolour=ustaw kolor
+editor_level_setclearcolour=wyczyść kolor
+editor_level_remove=usuń
+
+
+editor_path_settings=ustawienia ścieżki
+editor_path_object=objekt ścieżki
+editor_path_locked_orbs=kule
+editor_path_locked_loclevels=usuń lokalne
+
+
+editor_menu_returnfull=wróc do menu edytora
+editor_menu_test=testuj poziom
+editor_menu_themes=motywy...
+editor_menu_upload=wrzuć poziom
+editor_menu_copy=kopiuj poziom
+
+
+
+
+editor_unsaved_confirm=istnieją niezapisane zmiany. zamknąć mimo to?
+
+
+editor_copy_confirm=Czy na pewno chcesz skopiować ten poziom?
+editor_copy_confirm_name=Kopia będzie się nazywała
+editor_copy_done=Pomyślnie skopiowano poziom!
+
+
+editor_theme_warning=uwaga! zmiana motywu sprawi, że wszystkie obiekty zostaną usunięte
+editor_theme_load=załaduj motyw
+editor_theme_load_confirm=czy na pewno chcesz załadować ten motyw?
+editor_theme_load_confirm_hint=uwaga! wszystko zostanie usunięte!
+editor_theme_load_confirm_newlevel=czy chcesz załadować motyw do tego poziomu?
+editor_theme_themeload=wybierz motyw, który chcesz załadować
+editor_theme_save=zapisz dany motyw
+editor_theme_save_confirm=ten motyw już istnieje. Nadpisać?
+editor_theme_delete=usuń motyw
+editor_theme_delete_confirm=czy na pewno chcesz usunąć ten motyw?
+editor_theme_themedelete=wybierz motyw, który chcesz usunąć
+editor_theme_none=nie ma żadnych motywów do wybrania
+editor_theme_done=zacznij edytować
+
+
+editor_levelmenu_name=Nazwa
+editor_levelmenu_rename=Zmień nazwę
+editor_levelmenu_music=Muzyka
+editor_levelmenu_changemusic=Zmień muzykę
+editor_levelmenu_author=Autor
+editor_levelmenu_changeauthor=Zmień autora
+editor_levelmenu_subtitle=Podtytuł
+editor_levelmenu_subtitle_none=Brak
+editor_levelmenu_changesubtitle=Zmień podtytuł
+editor_levelmenu_particles=Efekty
+editor_levelmenu_changeparticles=Zmień efekty
+editor_levelmenu_palette=Paleta
+editor_levelmenu_changepalette=Zmień paletę
+editor_levelmenu_levelsize=Rozmiar poziomu
+editor_levelmenu_levelwidth=Szerokość
+editor_levelmenu_levelheight=Wysokość
+editor_levelmenu_changelevelsize=Zmień rozmiary poziomu
+editor_levelmenu_disableparticles=Wyłącz efekty
+editor_levelmenu_disableruleeffect=Wyłącz zasady
+editor_levelmenu_disableshake=Wyłącz wstrząsy ekranu
+editor_levelmenu_autodelay=Opóźnienie "Automatycznego poziomu"
+editor_levelmenu_mapsetup=Ustawienia mapy
+
+
+editor_music_select=wybierz muzykę, której chcesz użyć
+editor_music_none=nie znaleziono muzyki
+
+
+editor_particles_select=wybierz efekt, który chcesz użyć
+editor_particles_none=nie znaleziono efektów
+
+
+editor_palette_none=nie znaleziono palet
+
+
+editor_levelsize_width=zmień szerokość poziomu
+editor_levelsize_height=zmień wysokość poziomu
+editor_levelsize_quick=predefiniowane opcje
+editor_levelsize_apply=zastosuj nowe wymiary
+
+
+editor_upload_confirm=czy na pewno wrzucić ten poziom?
+editor_upload_confirm_note=(będziesz musiał najpierw rozwiązać poziom, aby go wrzucić)
+editor_upload_name=$2,4nazwa poziomu
+editor_upload_author=$2,4autor
+editor_upload_subtitle=$2,4podtytuł
+editor_upload_uploading=wrzucanie...
+editor_upload_done=pomyślnie wrzucono! kod poziomu to:
+editor_upload_failed=nie udało się wrzucić! powód:
+editor_upload_copy=skopiuj kod do schowka
+editor_upload_copyhint=możesz znaleźć stare kody w menu poziomów
+
+
+author=Autor
+noauthor=Autor nieznany
+
+
+editor_map_winlevel=zwycięstwo
+
+
+editor_object_name_invalid=Ta nazwa nie może zostać użyta.
+editor_object_colour=opcje kolorów obiektów
+editor_object_colour_onlybase=zmień kolor
+
+
+editor_spritelist_title=wybierz tekstura, którego chcesz użyć
+editor_spritelist_none=nie znaleziono tekstur! co?
+editor_spritelist_page=strona
+
+
+editor_tool_normal=dowolny kształt
+editor_tool_line=linia
+editor_tool_rectangle=prostokąt
+editor_tool_fillrectangle=wypełniony prostokąt
+editor_tool_fill=wypełnienie
+
+
+mapid_extra=więcej
+
+
+tag_text=słowo
+tag_text_verb=Słowo - Czasownik
+tag_text_quality=Słowo - Jakość
+tag_text_condition=Słowo - Warunek
+tag_text_prefix=Słowo - Prefiks
+tag_text_special=Słowo - Specjalne
+tag_text_letter=Liczba
+
+
+particles_none=Brak
+particles_bubbles=Bąbelki
+particles_soot=Sadza
+particles_sparks=Iskry
+particles_dust=Pył
+particles_snow=Śnieg
+particles_clouds=Chmury
+particles_smoke=Dym
+particles_pollen=Pyłki
+particles_stars=Gwiazdy
+particles_glitter=Brokat
+particles_leaves=Liście
+particles_rain=Deszcz
+
+
+music_baba=Baba
+music_burn=Jesień
+music_cave=Jaskinia
+music_crystal=Kryształowy
+music_editor=Psoty
+music_ending=Zakończenie
+music_factory=Fabryka
+music_float=Podwodny
+music_forest=Las
+music_garden=Ogród
+music_map=Mapa
+music_menu=Motyw
+music_mountain=Śnieżny
+music_noise=Pusty
+music_ruin=Ruiny
+music_stars=Kosmos
+
+
+palettes_abstract=Zielony
+palettes_autumn=Jesień
+palettes_contrast=Wysoki kontrast
+palettes_crystal=Kryształowy
+palettes_default=Domyślny
+palettes_factory=Fabryczny
+palettes_garden=Ogród
+palettes_marshmallow=Puszysty
+palettes_mono=Odcienie szarości
+palettes_mountain=Zimny
+palettes_ocean=Podwodny
+palettes_ruins=Ruiny
+palettes_space=Kosmos
+palettes_swamp=Mokradła
+palettes_test=Złowieszczy
+palettes_variant=Żywy
+palettes_volcano=Ognisty
+
+
+themes_underwater=Pod wodą
+themes_cavern=Jaskinia
+themes_autumn=Jesień
+themes_factory=Fabryka
+themes_ruins=Ruiny
+themes_forest=Las
+themes_space=Kosmos
+themes_garden=Ogród
+themes_mountain=Góry
+themes_default=Domyślny
+
+
+namegiving_newworldname=Wpisz nazwę paczek poziomów:
+namegiving_changelevelname=Wpisz nową nazwę poziomu:
+namegiving_newlevelname=Wpisz nazwę poziomu:
+namegiving_changeunitname=Wpisz nową nazwę obiektu:
+namegiving_changeunittype=Wprowadź nowy typ obiektu:
+namegiving_newthemename=Wpisz nazwę motywu:
+namegiving_objectsearchstring=Wyszukaj w liście obiektów:
+namegiving_levelauthor=Wprowadź autora poziomu:
+namegiving_worldauthor=Wprowadź autora paczki poziomów:
+namegiving_changeworldname=Wpisz nową nazwę paczki poziomu:
+namegiving_downloadcode=Wpisz kod poziomu (XXXX-YYYY):
+namegiving_levelsearchstring=Przeszukaj listę poziomów:
+namegiving_spritesearchstring=Przeszukaj listę tekstur:
+namegiving_slotname=Wpisz nazwę danego zapisu:
+namegiving_subtitle=Wpisz podtytuł poziomu:
+namegiving_editor_autopick=Wprowadź słowa:
+namegiving_currobjlist_autoadd=Wpisz słowa, które chcesz dodać:
+
+
+hotkeys_editor_category_editor=przyciski edytora
+hotkeys_editor_category_currobjlist=przyciski palety obiektów
+hotkeys_editor_category_levellist=przyciski listy poziomów
+hotkeys_editor_keyboard=dla klawiatur
+hotkeys_editor_gamepad=dla kontrolera
+hotkeys_editor_rotate=Strzałki: obracaj obiektami
+hotkeys_editor_copy=Prawy przycisk myszy/Shift + Lewy przycisk myszy: kopiuj obiekt
+hotkeys_editor_cut=Środkowy przycisk myszy: wytnij obiekt
+hotkeys_editor_quickbar_scroll=Kółko myszy: przewijaj pasek narzędzi
+hotkeys_editor_quickbar_lock=Prawy przycisk myszy na pasku narzędzi: zablokuj/odblokuj pole
+hotkeys_editor_quickbar_reset=Środkowy przycisk myszy na pasku narzędzi: wyczyść pole
+hotkeys_editor_swap=Control + kółko myszy: Zamieniaj między obiektami i słowami
+hotkeys_editor_changetool=Shift + kółko myszy: Zamieniaj narzędzia
+hotkeys_editor_changelayer=Control + 1/2/3: zmień warstwę
+hotkeys_editor_pickis=I: wybierz “Is”
+hotkeys_editor_pickand=U: wybierz “And”
+hotkeys_editor_picknot=Y: wybierz “Not”
+hotkeys_editor_pickempty=Q: Wybierz puste pola
+hotkeys_editor_massdir=F: pokaż kierunki wszystkich obiektów
+hotkeys_editor_moveall=WASD: przesuń wszystkie obiekty
+hotkeys_editor_rotateselection=Prawa/Lewa strzałka: wybór rotacji
+hotkeys_editor_flipselection=Strzałka w górę/dół: odbij lustrzanie/odwróć
+hotkeys_editor_altselection=Shift + Lewy przycisk myszy z zaznaczeniem: ignoruj puste pola
+hotkeys_editor_opencurrobjlist=Tab: otwórz palety obiektów
+hotkeys_editor_openeditormenu=Escape: otwórz menu poziomu
+hotkeys_editor_openeditorsettingsmenu=F1: otwórz ustawienia poziomu
+hotkeys_editor_testlevel=F3: przetestuj poziom
+hotkeys_editor_windowsize=Shift + 1/2/3: zmień rozmiar okna (tryb okienkowy)
+hotkeys_editor_undo=Control + Z: cofnij
+hotkeys_editor_save=Control + S: zapisz
+hotkeys_editor_deleteall=Control + Delete: wyczyść poziom
+hotkeys_editor_addobject=R: dodaj nowy obiekt do palety
+hotkeys_editor_return=Backspace: powrót do listy poziomów
+hotkeys_editor_drag=Control + Lewy przycisk myszy: przesuń obiekt
+hotkeys_editor_editlevel=E podczas przesuwania ponad poziomem: zacznij edytować dany poziom
+hotkeys_editor_quickaddlevel=Control podczas ustawiania poziomu: nie otwieraj ustawienia poziomu
+hotkeys_editor_restart=Control + F2: zrestartuj grę
+hotkeys_editor_resetmapicon=Środkowy przycisk myszy w menu ikon mapy: resetowanie pola ikony
+hotkeys_editor_cleartile=Control + Środkowy przycisk myszy: wyczyść pole
+hotkeys_editor_autopick=F4: dodaj słowo po ciągu znaków
+hotkeys_editor_gpad_rotate=@gamepad_editor_rotate: obróć obiekty
+hotkeys_editor_gpad_copy=@gamepad_editor_copy: kopiuj obiekt
+hotkeys_editor_gpad_cut=@gamepad_editor_altpress + @gamepad_editor_cut: wytnij obiekt
+hotkeys_editor_gpad_swap=@gamepad_editor_altpress + @gamepad_editor_swap: zamień między obiektami i słowami
+hotkeys_editor_gpad_drag=Hold @gamepad_editor_drag: przeciągnij obiekt
+hotkeys_editor_gpad_emptytile=@gamepad_editor_altpress + @gamepad_editor_emptytile: wyczyść pole (wszystkie warstwy)
+hotkeys_editor_gpad_changetool=@gamepad_editor_scrollleft_tool & @gamepad_editor_scrollright_tool: zamieniaj narzędzia
+hotkeys_editor_gpad_changelayer=@gamepad_editor_scrollleft_layer & @gamepad_editor_scrollright_layer: zmień warstwę
+hotkeys_editor_gpad_quickbar_scroll=@gamepad_editor_scrollleft_hotbar & @gamepad_editor_scrollright_hotbar: przewijaj pasek narzędzi
+hotkeys_editor_gpad_quickbar_lock=@gamepad_editor_altpress + @gamepad_editor_lock: zablokuj/odblokuj pole paska narzędzi
+hotkeys_editor_gpad_quickbar_empty=@gamepad_editor_altpress + @gamepad_editor_empty_hotbar: wyczyść pole paska narzędzi
+hotkeys_editor_gpad_pickempty=@gamepad_editor_altpress + @gamepad_editor_pickempty: podnieś puste pole
+hotkeys_editor_gpad_massdir=@gamepad_editor_altpress + @gamepad_editor_showdir: pokaż kierunki wszystkich obiektów
+hotkeys_editor_gpad_moveall=@gamepad_editor_moveall + @gamepad_editor_rotate: przesuń wszystkie obiekty
+hotkeys_editor_gpad_rotateselection=@gamepad_editor_scrollleft_tool & @gamepad_editor_scrollright_tool: wybór rotacji
+hotkeys_editor_gpad_flipselection=@gamepad_editor_scrollleft_hotbar & @gamepad_editor_scrollright_hotbar: odbij lustrzanie/odwróć
+hotkeys_editor_gpad_altselection=@gamepad_editor_undo z zaznaczeniem: ignoruj puste pola 
+hotkeys_editor_gpad_opencurrobjlist=@gamepad_editor_currobjlist: otwórz palety obiektów
+hotkeys_editor_gpad_openquickmenu=@gamepad_editor_quickmenu: otwórz menu
+hotkeys_editor_gpad_undo=@gamepad_editor_undo: cofnij
+hotkeys_editor_gpad_autopick=@gamepad_editor_altpress + @gamepad_editor_autopick: dodaj słowa po ciągu znaków
+hotkeys_editor_gpad_save=@gamepad_editor_altpress + @gamepad_editor_quickmenu: zapisz poziom
+hotkeys_editor_gpad_test=@gamepad_editor_altpress + @gamepad_editor_currobjlist: przetestuj poziom
+hotkeys_editor_gpad_altmove=@gamepad_editor_altpress + @gamepad_editor_rotate: poruszaj kursorem
+
+
+hotkeys_currobjlist_swap=Kółko myszy: zamień między obiektami i słowami
+hotkeys_currobjlist_drag=Control + Lewy przycisk myszy: przeciągnij obiekt
+hotkeys_currobjlist_leave=Tab/Escape: opuść menu
+hotkeys_currobjlist_edit=Prawy przycisk myszy: edytowanie metadanych obiektu
+hotkeys_currobjlist_remove=Control + Prawy przycisk myszy: Usuń obiekt
+hotkeys_currobjlist_search=Klawisze literowe: zacznij wyszukiwanie
+hotkeys_currobjlist_autoadd=F4: dodaj obiekty po ciągu znaków
+
+
+hotkeys_objlist_quickadd=Control + lewy przycisk myszy w Liście Obiektów: dodaj obiekt i kontynuuj szukanie
+
+
+hotkeys_currobjlist_gpad_swap=@gamepad_currobjlist_swap: zamień między obiektami i słowami
+hotkeys_currobjlist_gpad_drag=@gamepad_currobjlist_drag: przeciągnij obiekt
+hotkeys_currobjlist_gpad_leave=@gamepad_editor_currobjlist: opuść menu
+hotkeys_currobjlist_gpad_edit=@gamepad_currobjlist_edit: edytowanie metadanych obiektu
+hotkeys_currobjlist_gpad_remove=@gamepad_currobjlist_remove: Usuń obiekt
+hotkeys_currobjlist_gpad_search=@gamepad_currobjlist_search: zacznij wyszukiwanie
+hotkeys_currobjlist_gpad_add=@gamepad_currobjlist_addnew: dodaj nowy obiekt
+hotkeys_currobjlist_gpad_removesearch=@gamepad_editor_scrollright_hotbar w palecie obiektów: usuń wyszukiwanie
+hotkeys_currobjlist_gpad_removesearch_alt=@gamepad_editor_copy poza paletą obiektów: usuń wyszukiwane
+hotkeys_currobjlist_gpad_autoadd=@gamepad_currobjlist_autoadd: dodaj obiekty do ciągu znaków
+hotkeys_objlist_gpad_quickadd=@gamepad_editor_drag w liście obiektów: dodaj obiekt i kontynuuj szukanie
+hotkeys_objlist_gpad_quickadd=@gamepad_editor_currobjlist w liście obiektów: zacznij szukać
+
+
+hotkeys_levellist_search=Klawisze literowe: zacznij szukać
+hotkeys_levellist_leave=Escape: wyjdź z menu
+hotkeys_levellist_delete=Prawy przycisk myszy: usuń poziom
+hotkeys_levellist_gpad_search=@gamepad_editor_currobjlist: zacznij szukać
+hotkeys_levellist_gpad_leave=@gamepad_editor_quickmenu: wyjdź z menu
+hotkeys_levellist_gpad_delete=@gamepad_editor_undo: usuń poziom
+
+
+editorbeta_warning_1a=Ważne:
+editorbeta_warning_1b=Ten program ma na celu umożliwić testowanie nadchodzącego, oficjalnego edytora poziomów dla osób, które nie mogą się do niego inaczej dostać. Będzie wspierany  do premiery oficjalnego edytora we wczesnym 2021; po tym, program ten już nie będzie aktualizowany, i w końcu nie będzie możliwe przesyłanie poziomów do oficjalnych serwerów.
+editorbeta_warning_1c=Zauważ także, że edytor posiada spoilery! Rekomendowane jest to, żeby przejść chociaż 10 poziomów na głównej mapie gry, jeżeli chcesz uniknąć dużych spoilerów.
+editorbeta_warning_1d=Wybaczcie za tą nie najlepszą metodę dostępu. Powodzenia i miłej zabawy z edytorem!
+
+
+newadv_42level_1a=Witaj!
+newadv_42level_1b=Te przygody pokazują całkiem nowe
+newadv_42level_1c=słowa i niespodzianki! Miłej zabawy!
+newadv_42level_2a=Niektóre z tych poziomów
+newadv_42level_2b=zakładają, że znasz podstawy gry.
+newadv_42level_2c=Proszę, zapamiętać!
+
+
+levelpack_museum_intro1a=Witaj w Muzeum!
+levelpack_museum_intro1b=Te miejsce ma na celu pokazać
+levelpack_museum_intro1c=niewykorzystane zawartości.
+levelpack_museum_intro2a=Znaki takie, jak ten pokażą
+levelpack_museum_intro2b=interesujące szczegóły o
+levelpack_museum_intro2c=poziomach i samej grze!
+levelpack_museum_intro3a=Życzę miłego pobytu!
+levelpack_museum_intro3b=Jeżeli nie przeszedłeś jeszcze gry
+levelpack_museum_intro3c=mogą tu być spoilery, więc uwaga!
+
+
+museum_10level_1a=Jeden z pierwszych poziomów.
+museum_10level_1b=Od razu zauważyłem, że
+museum_10level_1c=był zbyt chaotyczny.
+museum_12level_1a=To jest wersja z NordicJam!
+museum_12level_1b=Trochę chaotyczne i bezcelowe, więc musiałem
+museum_12level_1c=trochę zmienić go, ponieważ logika gry cały czas się zmieniała.
+museum_15level_1a=Bardzo bardzo wczesny poziom. Chyba użyłem go
+museum_15level_1b=do wprowadzenia “Shut” i “Open”, ale powstało zbyt
+museum_15level_1c=dużo sposobów na rozwiązanie poziomów.
+museum_14level_1a=Prawdopodobnie pierwszy poziom z “More”, który
+museum_14level_1b=był dość dobry, żeby wstawić do gry. Niestety
+museum_14level_1c=wydawał się zbyt bezcelowy, więc został wyrzucony.
+museum_x20level_1a=Patrząc, jak prosty jest i wcześnie pojawia się ten
+museum_x20level_1b=poziom, jest to oczywiste, że przeszedł przez
+museum_x20level_1c=dużo zmian. To przydało się na później!
+museum_25level_1a=Myśle, że to w końcu ewoluowało w “Siege”.
+museum_25level_1b=koniec tego poziomu jest całkiem zabawny, ale powinienem był mieć
+museum_25level_1c=więcej pewności i nie dodawać więcej przeszkód.
+museum_39level_1a=Byłem bardzo dumny z tej pary, gdy pierwszy raz je zrobiłem.
+museum_39level_1b=Wracając do nich po 3 latach, nie wydają się takie ekscytujące
+museum_39level_1c=(nie mówiąc, że nie działały do końca poprawnie!).
+museum_46level_1a=Te dwa poziomy były pierwszym przypadkiem takich, które
+museum_46level_1b=chciały coś przekazać swoją konstrukcją.
+museum_46level_1c=Nie działało to najlepiej, ale trzeba od czegoś zacząć!
+museum_61level_1a=Dużym problemem we wczesnych fazach była moja tendencja do
+museum_61level_1b=doczepiania słów bez przemyśleń nad samym znaczeniem poziomu.
+museum_61level_1c=Wynikiem był bardzo skomplikowany, ale nieczytelny poziom.
+museum_62level_1a=To miał być poziom, który wprowadzał “Tele”. Sprawiał, że
+museum_62level_1b=sam poziom był całkiem chaotyczny, nawet, jeśli prosty. Zastanawiam się nad tym,
+museum_62level_1c=dlaczego tak bardzo nie chciałem “Grass Is You”, żeby było rozwiązaniem.
+museum_82level_1a=Proszę zwrócić uwagę! Ten poziom rzeczywiście był użyty;
+museum_82level_1b=wprowadziłem go, aby pokazać całkiem fajny kruczek, który
+museum_82level_1c=będzie ważny w poziomie zaraz po tym.
+museum_113level_1a=Bardzo dużo zasad! Zawsze je lubiłem ale, usunąłem
+museum_113level_1b=je z powodu nieładu. Mam nadzieję, że mechanika “Fall”
+museum_113level_1c=pozwalająca ci ominąć niebezpieczeństwa ma logiczny sens.
+museum_143level_1a=Wydaje mi się, że zrobiłem 2-3 poziomy z tymi samymi podstawowymi
+museum_143level_1b=założeniami; dużo czasu zajęło mi zauważenie jak podobne do siebie
+museum_143level_1c=były te poziomy. Ale podobały mi się apartamenty!
+museum_x148level_1a=Ten design wydawał się bardzo nieelegancki i nieproduktywny ale w tamtym
+museum_x148level_1b=momencie dałbym mu parę punktów za styl. Jeśli nie doświadczyłeś jeszcze
+museum_x148level_1c=’’Eat’’, pomyśl, że “lava” jest szkodliwe dla “key”.
+museum_50level_1a=Podczas robienia tego, zacząłem się zastanawiać: jeśli użyjesz “Tele”
+museum_50level_1b=na obiekcie, który jest “Swap”, czy punkt końcowy “Tele” nie powinien 
+museum_50level_1c=zamienić się z teleportowanym obiektem.
+museum_50level_2a=Testowałem to i na początku wydawało to się
+museum_50level_2b=logiczne! Jestem całkiem pewny, że testerzy zwracali uwagę
+museum_50level_2c=jak okropne by to było więc odrzuciłem ten pomysł.
+museum_50level_3a=Ten poziom ukazuje dodawanie dodatkowych przeszkód
+museum_50level_3b=ze strachu, że rozwiązanie będzie zbyt oczywiste.
+museum_50level_3c=Ogólnie okazało się, że było to bezużyteczne, a nawet szkodliwe.
+museum_yylevel_1a=Czasami, kiedy wracasz do poziomu na który
+museum_yylevel_1b=nie patrzyłeś przez długi czas, nie jesteś w stanie
+museum_yylevel_1c=sobie przypomnieć jaki był pomysł na poziom.
+museum_80level_1a=Ten mały detal w tym poziomie jest całkiem ciekawy.
+museum_80level_1b=Poziom nie zajmuje się zbytnio manipulacją zasad
+museum_80level_1c=i przez to był zbyt ogólny, aby go dodawać.
+museum_87level_1a=Pewnego razu podekscytowałem się alternatywnymi poziomami
+museum_87level_1b=i zastanawiałem się czy pierwszy poziom powinien takowy mieć;
+museum_87level_1c=jednakże nie był on zbytnio wykwintny.
+museum_41level_1a=Pomysł z Puzzlami będącymi powtórzeniami
+museum_41level_1b=tego samego pomysłu, ale z małymi zmianami dla
+museum_41level_1c=zwiększenia trudności jest dla mnie bardzo intrygujący.
+museum_42level_1a=Widziałem parę gier logicznych które dobrze sobie radziły
+museum_42level_1b=z designem puzzli, żeby postęp odzwierciedlał
+museum_42level_1c=sposoby myślenia osób na początku jak i dalej.
+museum_43level_1a=We wczesnych fazach rozwoju Baba Is You
+museum_43level_1b=chciałem spróbować podobnego designu. Natomiast
+museum_43level_1c=moje podejście było niedoskonałe z kilku powodów.
+museum_44level_1a=Żeby wpaść na pomysł alternatywnymi rozwiązaniami w puzzlach
+museum_44level_1b=potrzebny jest wkład z zewnątrz, i po to, żeby mieć świeży wgląd
+museum_44level_1c=oraz, aby zrozumieć jak ludzie podchodzą do zagadek.
+museum_45level_1a=Całkiem to zrozumiałem ale próbowałem “sforsować”
+museum_45level_1b=interesujący zestaw zagadeki. Rezultatem jest zestaw “House”.
+museum_45level_1c=Były one bardzo dopracowywane, aż do wyjścia!
+museum_68level_1a=Pomysł przedstawiony tutaj podążał za postępem gry.
+museum_68level_1b=Starałem się zwiększyć złożoność na różne sposoby,
+museum_68level_1c=ale ostatecznie dodatkowe elementy tylko przeszkadzały.
+museum_d68level_1a=Kiedy przeglądałem stare pomysły na poziomy, wpadłem
+museum_d68level_1b=na kilka wariantów poziomów. Tak więc kilka tych poziomów
+museum_d68level_1c=jest “nowych” w takim sensie, że powstały dla Muzeum.
+museum_x70level_1a=Kiedy myślę nad nazwami poziomów pozwalam mojej głowie myśleć
+museum_x70level_1b=sobie o czymkolwiek. Czasami ta wymyślona nazwa jest za mało
+museum_x70level_1c=połączona z poziomem. I see very little "classic" here!!
+museum_73level_1a=Bardzo się starałem dodać jakiś zwrot akcji na końcu tego
+museum_73level_1b=poziomu i jakoś nigdy to nie wychodziło. W tej formie mogło
+museum_73level_1c=fajnie zadziałać jako introdukcja do “On”, powiedziałbym!
+museum_86level_1a=Ten poziom wydawał się zbyt błahy i został pominięty.
+museum_86level_1b=Ale podobał mi się pomysł rozwiązania!
+museum_86level_1c=
+museum_86level_2a=Ogólnie to starałem się unikać nazw poziomów które bezpośrednio
+museum_86level_2b=odnoszą się do zamierzonego podejścia. Wydaje mi się, że dawanie
+museum_86level_2c=podpowiedzi w ten sposób jest zbyt bezpośrednie? Lub niesatysfakcjonujące?
+museum_92level_1a=”Shift” okazał się być zaskakująco potężny na swój sposób; Cały czas
+museum_92level_1b=zapomniałem, że nie mogę po prostu postawić bariery na jego drodze bez
+museum_92level_1c=przesunięcia jej “Shift’em”. To wymagało dużo korygowania.
+museum_96level_1a=Wszystko co jest związane z oryginalnym pomysłem na ten poziom
+museum_96level_1b=można zobaczyć w pokoju na środku poziomu. Wszystko inne
+museum_96level_1c=jest "dodatkowo" dodane dla wsparcia. Uh. Hm. Może nie najlepszego.
+museum_102level_1a=To jest dobry przykład poziomu gdzie fajny obraz w głowie zaskutkował
+museum_102level_1b=całkiem nijakim poziomem. "Linia produkcyjna" raczej
+museum_102level_1c=bardziej pasowałaby jako automaton, niż jako zagadka.
+museum_114level_1a=To czego tu nie widzisz to wielki bałagan używanych bloków.
+museum_114level_1b=Posprzątałem trochę design, żeby poziom się jakoś prezentował;
+museum_114level_1c=oryginał był zbyt skomplikowany i mocno toporny.
+museum_114level_2a=Dużo poziomów związanych z "Poziomem" (końcową mapą) polegają na 
+museum_114level_2b=niszczeniu ich. Jako rezultat, ta nazwa mogła być użyta bez problemów
+museum_114level_2c=w grze, pomimo że design jest całkowicie inny!
+museum_x135level_1a=Fujka! Ogólny koncept poziomu jest całkiem widoczny
+museum_x135level_1b=w tej wstępnej wersji, ale te wykonanie wymaga
+museum_x135level_1c=*dużo* mieszania. Nie najlepsze. Przepraszam.
+museum_140level_2a=”Not” okazało się być bardzo potężne, pomimo bycia koncepcyjnie
+museum_140level_2b=prostym operatorem. Im bardziej wszechstronne słowo jest, tym ciężej
+museum_140level_2c=jest zaprojektować zagadki wokół nich bez rygorystycznych zasad.
+museum_259level_1a=Jak można zgadnąć, "Swap" był jednym z najbardziej skomplikowanych
+museum_259level_1b=słów, wokół których tworzyłem poziomy. Dodałem drugą odizolowaną
+museum_259level_1c=warstwę po nieudanej próbie dodania pomysłu przy użyciu tylko jednej.
+museum_259level_2a=Jednakże, ten układ poziomu był wyglądowo nieprzyjemny i działał
+museum_259level_2b=topornie. Końcowo wróciłem do konceptu poziomu i (Chyba?)
+museum_259level_2c=udało mi się wykonać ten pomysł używając tylko jednej warstwy.
+museum_276level_1a=Całkiem podobało mi się rozwiązanie do tego zanim wróciłem do robienia
+museum_276level_1b=Muzeum. Głównym punktem przeciwko temu jest całkiem skomplikowany
+museum_276level_1c=design i problemy z czytelnością w grze kiedy obiekty nakładają się na siebie.
+museum_290level_1a=Kiedy tworzyłem ten poziom znalazłem błąd ze słowem “Word”. Nie
+museum_290level_1b=miałem czasu/motywacji żeby to naprawić przed wyjściem gry, więc po prostu
+museum_290level_1c=zostawiłem ten poziom nieukończony, czekając na lepszą przyszłość.
+museum_296level_1a=Struktura finalnych stref gry doznała wielu zmian podczas
+museum_296level_1b=produkcji. Ten poziom miał być częścią finalnej zaskakującej
+museum_296level_1c=meta zagadki, ale wydawał się zbyt bezcelowy i chaotyczny.
+museum_321level_1a=Ten poziom prawie nie pojawił się w końcowej wersji gry. Bardzo go
+museum_321level_1b=lubiłem, ale opinie testerów uświadomiły mi, że bardzo ważny
+museum_321level_1c=element rozwiązania okazał się odrobinę zbyt niejasny.
+museum_328level_1a=Ten poziom był w grze przy samym jej wyjściu! Ostatecznie zastąpiłem go, ponieważ
+museum_328level_1b=sekcja w której się znajdował miała przedstawić mechanikę skierowania bloków,
+museum_328level_1c=a tutaj jej nie było. Poziom ten jest też chaotyczny i nie zbyt poukładany.
+
+
+museum_spoilerlevel_1a=Uwaga!
+museum_spoilerlevel_1b=Następujące poziomy są spoilerami do wielu ważnych mechanik gry,
+museum_spoilerlevel_1c=więc ukończenie głównej mapy gry jest zalecane!
+
+
+tutorial_skip=pomiń samouczek
+tutorial_continue=kontynuuj
+tutorial_end=zakończ samouczek
+
+
+tutorial_intro_1a=Witaj w edytorze poziomów!
+tutorial_intro_1b=Edytor jest dość skomplikowany, więc zalecam przejść ten samouczek. Możesz go jednak pominąć wybierając "pomiń samouczek". Zawsze możesz do niego wrócić poprzez "ustawienia" znajdujące się w samym edytorze. Ten samouczek pokaże ci jak stworzyć prosty poziom, natomiast kolejne wyjaśnią dogłębnie każdą funkcję edytora.
+tutorial_intro_1c=Pamiętaj, że edytor zawiera spoilery - niektóre są ukryte (możesz je odkryć w ustawieniach edytora), ale nadal możesz na nie trafić grają poziomy innych graczy. Zalecane jest przejść przynajmniej główną mapę jeżeli chcesz je odkryć samemu.
+tutorial_intro_2a=Podczas pierwszego odpalenia edytora, zobaczysz menu główne edytora. Przez nie możesz: edytować swoje poziomy, pobrać nowe, zmienić ustawienia samego edytora itd. Na razie wybierzmy "Edytuj poziomy" i przejdźmy dalej.
+tutorial_intro_3a=Przed nami lista poziomów. Tutaj zobaczysz wszystkie poziomy, które stworzyłeś lub pobrałeś. Wybierz "stwórz nowy poziom", aby… stworzyć nowy poziom.
+tutorial_intro_3a_n=Przed nami lista poziomów. Tutaj zobaczysz wszystkie poziomy, które stworzyłeś lub pobrałeś. Możesz mieć maksymalnie 100 poziomów na tej liście. Wybierz "stwórz nowy poziom", aby… stworzyć nowy poziom.
+tutorial_intro_4a=Na początek: nazwij swój poziom. Zawsze możesz to zmienić, więc daj się porwać fantazji. Jeśli chcesz, żeby twój poziom już konkretny wygląd, możesz wybrać motyw swojego poziomu z listy gotowych wzorów! Oczywiście, jest to całkowicie opcjonalne.
+tutorial_intro_5a=Oto widok głównego edytora mapy. Całkiem dużo tutaj rzeczy, ale przerobimy podstawy na teraz.
+tutorial_intro_6a=Na początek wybierz opcję "obiekty". Tam znajdziesz rzeczy, które możesz położyć na swój poziom.
+tutorial_intro_6a_gpad=Na początek kliknij @gamepad_editor_currobjlist, aby wybrać opcję "obiekty". Tam znajdziesz rzeczy, które możesz położyć na swój poziom.
+tutorial_intro_7a=Oto paleta obiektów. Nie martw się ilością opcji. Na razie wybierzmy "Baba" z listy.
+tutorial_intro_8a=Kiedy wybrałeś już swój obiekt, możesz go położyć gdziekolwiek chcesz na swoim poziomie. Użyj strzałek, aby zmienić rotację obiektu. Witaj, Baba!
+tutorial_intro_8a_gpad=Kiedy wybrałeś już swój obiekt, możesz go położyć gdziekolwiek chcesz na swoim poziomie. Kliknij @gamepad_editor_rotate, aby zmienić rotację obiektu. Witaj, Baba!
+tutorial_intro_9a=Nasza lista obiektów jest całkiem mała. Dodajmy więc nowy obiekt do naszej palety - dzięki tamtemu przyciskowi!
+tutorial_intro_10a=To jest lista wszystkich dostępnych obiektów. Możesz wyszukać oraz dodać tagi, aby znaleźć ciekawe rzeczy. Dla potrzeb tego samouczka, wyszukaj obiektu "Wall" i wybierz go.
+tutorial_intro_11a=...I prosze bardzo, ściana (oraz jej obiekt, "Wall") jest częścią naszej palety! Teraz wybierz "Wall" z naszej palety i połóż go gdzieś na swoim poziomie.
+tutorial_intro_12a=Jeżeli przypadkowo postawisz coś tam gdzie tego nie chcesz, pasz kilka opcji do wyboru: możesz cofnąć taką akcję, albo nacisnąć Q, aby wybrać "Nothing" (czyli "nic") i postawić je na danym obiekcie. Można jeszcze kliknąć prawy przycisk myszy na pole obok i wybrać to co się chce (tutaj znowu "Nothing") i zamienić oba te obiekty.
+tutorial_intro_12a_gpad=Jeżeli przypadkowo postawisz coś tam gdzie tego nie chcesz, pasz kilka opcji do wyboru: możesz cofnąć taką akcję klikając @gamepad_editor_undo lub @gamepad_editor_altpress + @gamepad_editor_pickempty aby wybrać "Nothing" (czyli "nic") i postawić je na danym obiekcie. Można jeszcze kliknąć @gamepad_editor_copy na pole obok i wybrać to co się chce (tutaj znowu "Nothing") i zamienić oba te obiekty.
+tutorial_intro_13a=Tak wyglądają podstawy edytora poziomów! Wybierz obiekty z palety obiektów, dodaj więcej do swojej palety z list oraz poukładaj je na swojej planszy. Żeby nie przedłużać, zobaczmy teraz kompletny poziom.
+tutorial_intro_14a=Pamiętaj, żeby często zapisywać! Naciśnij ten przycisk na dole (albo Control + S), aby zapisać. Dzięki temu możesz potem wrócić do swojego poziomu. Zapisywanie umożliwia też udostępnianie danego poziomu innym.
+tutorial_intro_14a_gpad=Pamiętaj, żeby często zapisywać! Kliknij @gamepad_editor_quickmenu, żeby otworzyć menu główne i tam zapisać, albo @gamepad_editor_altpress + @gamepad_editor_quickmenu, aby zapisać. Dzięki temu możesz potem wrócić do swojego poziomu. Zapisywanie umożliwia też udostępnianie danego poziomu innym.
+tutorial_intro_15a=Jeżeli chcesz przetestować swój poziom, po prostu naciśnij przycisk "Testuj" (lub F3). Podczas testowania, przycisk pauzy powróci cię do edytora (lub poprzez kliknięcie F3).
+tutorial_intro_15a_gpad=Jeżeli chcesz przetestować swój poziom, możesz to zrobić przez menu lub po prostu kliknąć @gamepad_editor_altpress + @gamepad_editor_currobjlist . Podczas testowania, przycisk pauzy powróci cię do edytora.
+tutorial_intro_16a=To na tyle podstaw! Kolejne samouczki pokażą dokładniej każde detale gry, ale dzięki temu wstępowi na pewno uda ci się stworzyć własny poziom. Baw się dobrze!
+
+
+tutorial_2_1a=Witaj ponownie!
+tutorial_2_1b=W tej części samouczka skupimy się na działaniu samego edytora. Nauczysz się tutaj o rotacji, wysokości obiektów oraz podobnych systemach.
+tutorial_2_2a=Wszędzie dobrze, ale w edytorze najlepiej.
+tutorial_2_3a=Pierwszy samouczek wprowadzał cię do układania obiektów. Przejdź do palety obiektów (klikając przycisk "Obiekty" lub klikając Tab), wybierz obiekt i postaw go gdziekolwiek chcesz - to aż takie proste! Mała strzałka na dolnym rogu obiektu będzie wskazywała jego skierowanie.
+tutorial_2_3a_gpad=Pierwszy samouczek wprowadzał cię do układania obiektów. Przejdź do palety obiektów klikając @gamepad_editor_currobjlist, wybierz obiekt i postaw go gdziekolwiek chcesz - to aż takie proste! Mała strzałka na dolnym rogu obiektu będzie wskazywała jego skierowanie.
+tutorial_2_4a=Jeżeli klikniesz postawiony już obiekt prawym przyciskiem myszy, kopiujesz go i kolejnymi kliknięciami kładziesz go zamiast tego co wcześniej wybrałeś. Natomiast środkowym przyciskiem myszy "wycinasz" go, zwalniając miejsce, ale pozwalając położyć dany obiekt gdzieś indziej.
+tutorial_2_4a_gpad=Jeżeli klikniesz postawiony już obiekt przyciskiem @gamepad_editor_copy kopujesz go i kolejnymi kliknięciami kładziesz go zamiast tego co wcześniej wybrałeś. Natomiast klikając @gamepad_editor_altpress + @gamepad_editor_cut na dany obiekt "wycinasz" go, zwalniając miejsce, ale pozwalając położyć dany obiekt gdzieś indziej.
+tutorial_2_4b=Jeżeli wybrałeś obiekt typu “Baba” lub “Flag”, możesz przytrzymać Control i użyć kółka myszy, aby zmienić między nimi i odpowiednikami w formie słów. Przydaje się w szybkim budowaniu zasad!
+tutorial_2_4b_gpad=Jeśli wybrałeś obiekt typu “Baba” lub “Flag”, możesz kliknąć @gamepad_editor_swap aby zmienić między nimi i odpowiednikami w formie słów. Przydaje się w szybkim budowaniu zasad!
+tutorial_2_5a=Jeżeli chcesz zmienić pozycję obiektu, który już jest położony, najedź na niego myszką i kliknij i przytrzymaj na niego Controlem. Dzięki temu, podczas trzymania Control, możesz przesuwać obiekt po swojej planszy. Puszczanie Control położy obiekt (jeżeli pod spodem jest na to miejsce).
+tutorial_2_5a_gpad=Jeżeli chcesz zmienić pozycję obiektu, który już jest położony, najedź na niego myszką i kliknij i przytrzymaj @gamepad_editor_drag . Dzięki temu, podczas trzymania @gamepad_editor_drag, możesz przesuwać obiekt po swojej planszy. Puszczanie @gamepad_editor_drag położy obiekt (jeżeli pod spodem jest na to miejsce).
+tutorial_2_5b=Kiedy masz myszkę nad obiektem na swojej mapie, mała strzałka w roku pokaże jego skierowanie. Możesz je zmienić klikając strzałki podczas gdy masz myszkę nad danym obiektem.
+tutorial_2_5b_gpad=Kiedy masz myszkę nad obiektem na swojej mapie, mała strzałka w roku pokaże jego skierowanie. Możesz je zmienić klikając @gamepad_editor_rotate gdy jesteś nad danym obiektem.
+tutorial_2_6a=Jeżeli chcesz wybrać “nic” w celu usunięcia obiektów, możesz skopiować puste pole lub kliknąć “Q”, aby szybko wyczyścić dane pole.
+tutorial_2_6a_gpad=Jeżeli chcesz wybrać “nic” w celu usunięcia obiektów, możesz skopiować puste pole lub kliknąć @gamepad_editor_altpress + @gamepad_editor_pickempty aby szybko wyczyścić dane pole.
+tutorial_2_7a=Możesz także kłaść wiele obiektów na raz! Możesz to robić dzięki innym “Narzędziom” pokazanym obok. Wszystkie te obiekty potrzebują więcej czasu na omówienie więc będą one poruszone w dalszych częściach samouczka.
+tutorial_2_8a=Każdy poziom w Baba Is You jest złożony z 3 warstw. Oznacza to, że podczas robienia poziomu możesz mieć maksymalnie 3 obiekty jeden na drugim. Kliknij te przyciski, aby zmienić edytowaną warstwę. Ewentualnie możesz przytrzymać Control oraz klikać 1, 2 lub 3. Obiekty na innych warstwach są przyciemnione, więc musisz się skupić!
+tutorial_2_8a_gpad=Każdy poziom w Baba Is You jest złożony z 3 warstw. Oznacza to, że podczas robienia poziomu możesz mieć maksymalnie 3 obiekty jeden na drugim. Możesz kliknąć @gamepad_editor_scrollleft_layer & @gamepad_editor_scrollright_layer, aby zmienić edytowaną warstwę. Obiekty na innych warstwach są przyciemnione, więc musisz się skupić!
+tutorial_2_9a=Tutaj oto mamy “pasek narzędzi”! Pozwala ci szybko wybrać obiekty, które ostatnio używałeś, oraz listę obiektów, która jest uważana za najważniejsze.
+tutorial_2_10a=Użyj klawiszy cyfrowych lub kółka myszy, aby przeglądać pasek narzędzi. Zielony marker pokazuje które miejsce jest w tej chwili wybrane. Możesz także kliknąć na miejsce, które chcesz wybrać. 
+tutorial_2_10a_gpad=Kliknij @gamepad_editor_scrollleft_hotbar & @gamepad_editor_scrollright_hotbar , aby przeglądać pasek narzędzi. Zielony marker pokazuje które miejsce jest w tej chwili wybrane.
+tutorial_2_11a=Pasek narzędzi jest automatycznie aktualizowany obiektami, które ostatnio używałeś. Jeżeli chcesz, żeby konkretny obiekt zawsze był w pasku narzędzi, kliknij go prawym przyciskiem myszy. Krawędź miejsca lekko się zmieni, żeby pokazać, że ten obiekt jest “zablokowany”. Kliknij go jeszcze raz, aby go odblokować. Słowo “Is” jest od początku zablokowany.
+tutorial_2_11a_gpad=Pasek narzędzi jest automatycznie aktualizowany obiektami, które ostatnio używałeś. Jeżeli chcesz, żeby konkretny obiekt zawsze był w pasku narzędzi, kliknij @gamepad_editor_altpress + @gamepad_editor_lock . Krawędź miejsca lekko się zmieni, żeby pokazać, że ten obiekt jest “zablokowany”. Kliknij go jeszcze raz, aby go odblokować. Słowo “Is” jest od początku zablokowany.
+tutorial_2_12a=Jeżeli chcesz usunąć konkretny obiekt z pasku narzędzi, po prostu kliknij go środkowym przyciskiem myszy.
+tutorial_2_12a_gpad=Jeżeli chcesz usunąć konkretny obiekt z pasku narzędzi, po prostu kliknij @gamepad_editor_altpress + @gamepad_editor_empty_hotbar podczas, gdy to miejsce jest wybrane.
+tutorial_2_13a=Podczas robienia poziomu, pamiętaj, aby często zapisywać! Użyj do tego poniższych przycisków. Możesz także przytrzymać Control i kliknąć S, aby zapisać oraz kliknij F3 aby przetestować swój poziom.
+tutorial_2_13a_gpad=Podczas robienia poziomu, pamiętaj, aby często zapisywać! Użyj Menu szybkiego dostępu ( @gamepad_editor_quickmenu ) , lub kliknij @gamepad_editor_altpress + @gamepad_editor_quickmenu, aby zapisać, lub @gamepad_editor_altpress + @gamepad_editor_currobjlist, aby przetestować swój poziom.
+tutorial_2_14a=Dobra, to tyle na teraz! Istnieją kolejne sposoby, które sprawiają, że twój poziom jest coraz ładniejszy, ale to pokażę w następnych częściach!
+
+
+tutorial_3_1a=Witaj z powrotem!
+tutorial_3_1b=Ta część samouczka zajmuję się zaawansowanym użyciem widoku edytora; 
+szczególnie omówimy różnie narzędzia do układania obiektów, który były pominięte w drugim samouczku.
+tutorial_3_2a=Znowu się tu spotykamy: edytor. Po prawej znajduję się lista narzędzi.
+tutorial_3_3a=Twoim domyślnym narzędziem jest Ołówek. Działa tak, jak można się spodziewać; kliknij na pole i pojawi się na nim obiekt.
+tutorial_3_3a_gpad=Twoim domyślnym narzędziem jest Ołówek. Działa tak, jak można się spodziewać; kliknij @gamepad_editor_place na polu i pojawi się na nim obiekt.
+tutorial_3_4a=Przechodząc dalej, następnym podstawowym narzędziem jest Gumka. Działa jak ołówek, tylko na odwrót: usuwa obiekty. Efekt jest praktycznie identyczny do ołówka i wstawia “puste” pole.
+tutorial_3_5a=Następne jest narzędzie Linii. Wybierz pole, przeciągnij od niego linie i na każdym zaznaczonym polu pojawi się obiekt. Linia może być trochę niedokładna, ale przydaje się przy stawianiu obiektu w kolumnach i rzędach.
+tutorial_3_6a=Dokładnie tak. Wybraliśmy pole po prawej i rozciągnęliśmy linie do lewej, aby postawić kilka flag.
+tutorial_3_7a=Kolejnym narzędziem jest Prostokąt. Działa na tej samej zasadzie do narzędzie linii; zaznacz pole i wyznacz prostokąt by postawić kilka obiektów na raz.
+tutorial_3_8a=Nieźle!
+tutorial_3_9a=Następne narzędzie to Wypełniony prostokąt, jest bardziej wariacją narzędzia prostokąt niż pełnoprawnym narzędziem. Działa na tej samej zasadzie co prostokąt, tylko że wypełnia utworzony kształt.
+tutorial_3_10a=Przejdziemy do następnego narzędzia: Wypełnienie. Działa dokładnie jak brzmi, wypełnia jednolity obszar tym samym obiektem. Jednolity obszar rozumiemy jako obszar złożony z tych samych obiektów np. grupa Bab albo puste pola
+tutorial_3_11a=Dobrze, teraz najbardziej kompleksowe narzędzie: Zaznaczenie! Dzięki niemu możesz przenosić i obracać kilka obiektów w poziomie.
+tutorial_3_12a=Podstawowe użycie podobne do narzędzia prostokąt: wybierz pole i wyznacz prostokątny obszar. będzie zaznaczony na czerwono, jak widać na załączonym obrazku.
+tutorial_3_13a=Kiedy obszar zostanie zaznaczony, poruszanie kursorem przenosi wszystkie obiekty w tym obszarze. Jeśli naciśniesz lewy przycisk myszy, możesz wstawiać kopię danych obiektów, tam, gdzie chcesz. Normalnie podczas przenoszenia puste pola zastąpią obiekty pod nimi. Aby temu zapobiec możesz przytrzymać Shift podczas przenoszenia.
+tutorial_3_13a_gpad= Kiedy obszar zostanie zaznaczony, poruszanie kursorem przenosi wszystkie obiekty w tym obszarze. Jeśli naciśniesz @gamepad_editor_place, możesz wstawiać kopię danych obiektów, tam, gdzie chcesz. Normalnie podczas przenoszenia puste pola zastąpią obiekty pod nimi, aby temu zapobiec możesz przytrzymać @gamepad_editor_undo podczas przenoszenia.
+tutorial_3_14a=Możesz obracać, odbijać lustrzanie i przewrócić zaznaczenie strzałkami. Lewa i prawa obraca, do góry odbija lustrzanie i do dołu przewraca zaznaczenie.
+tutorial_3_14a_gpad=Możesz obracać, odbijać lustrzanie i przewrócić zaznaczenie. @gamepad_editor_scrollleft_tool i @gamepad_editor_scrollright_tool obraca, @gamepad_editor_scrollright_hotbar odbija lustrzanie i @gamepad_editor_scrollleft_hotbar przewraca zaznaczenie.
+tutorial_3_15a=Po prostu naciśnij prawy przycisk myszy, aby usunąć zaznaczenie. Pamiętaj, że obiekty w zaznaczeniu zostaną usunięte!
+tutorial_3_15a_gpad=Po prostu naciśnij @gamepad_editor_drag, aby usunąć zaznaczenie. Pamiętaj, że obiekty w zaznaczeniu zostaną usunięte!
+tutorial_3_16a=... i to wszystko na teraz! Z tymi narzędziami, edytowanie poziomów powinno być trochę bardziej przyjazne.
+
+
+tutorial_4_1a=Witaj ponownie!
+tutorial_4_1b=W tej części samouczka zwrócimy uwagę na paletę obiektów; jest to lista obiektów które możesz dodać do swojego poziomu.
+tutorial_4_2a=Ponownie zaczynamy z pustym poziomem.
+tutorial_4_3a=Naciśnięcie przycisku “Obiekty” albo Tab przeniesie cię do palety obiektów.
+tutorial_4_3a_gpad=Naciśnięcie @gamepad_editor_currobjlist przeniesie cię do palety obiektów.
+tutorial_4_4a=Żeby wybrać obiekt którego chcesz użyć, po prostu na niego kliknij. To spowoduje automatyczne opuszczenie menu. Jeżeli nie chcesz niczego wybrać, ponowne naciśnięcie Tab wyłączy menu.
+tutorial_4_4a_gpad=Żeby wybrać obiekt którego chcesz użyć, naciśnij @gamepad_editor_place. To spowoduje automatyczne opuszczenie menu. Jeżeli nie chcesz niczego wybrać, ponowne naciśnięcie @gamepad_editor_currobjlist wyłączy menu.
+tutorial_4_5a=Baba pozwala zmieniać się między dwoma trybami wyświetlania twojej palety obiektów. W pierwszym trybie, wszystkie słowa i obiekty pokazane są razem (tak jak teraz), a w drugim trybie obiekty i ich słowa są ułożone jeden na drugim (na przykładzie: postać “baby” i słowo “baba” są w tym samym miejscu.) Użyj tego przycisku, żeby zmieniać te tryby.
+tutorial_4_6a=Kiedy znajdujesz się w widoku warstwowym, po prostu użyj kółka myszy, (albo zaznaczonego przycisku) żeby zmieniać widoczność słów oraz obiektów. Pozwala to na bardziej przejrzysty widok, ale to wszystko zależy od ciebie. Narazie, wyłączmy tryb widoku warstwowego.
+tutorial_4_6a_gpad=Kiedy znajdujesz się w widoku warstwowym, po prostu użyj @gamepad_currobjlist_swap (albo zaznaczonego przycisku) żeby zmieniać widoczność słów oraz obiektów. Pozwala to na bardziej przejrzysty widok, ale to wszystko zależy od ciebie. Narazie, wyłączmy tryb widoku warstwowego.
+tutorial_4_7a=Podstawowo twoja paleta obiektów jest całkiem mała. Użyj zaznaczonego przycisku, aby dodać więcej obiektów do palety. Może być ich aż 150 na poziom!
+tutorial_4_7a_gpad=Podstawowo twoja paleta obiektów jest całkiem mała. Użyj zaznaczonego przycisku lub @gamepad_currobjlist_addnew, żeby dodać więcej obiektów do palety. Może być ich aż 150 na poziom!
+tutorial_4_8a=To jest lista obiektów, którą odwiedziliśmy w pierwszym samouczku. Tutaj możesz znaleźć wszystkie obiekty jakie możesz dodać do swojego poziomu.Troche ich jest! Kilka opcji jest usuniętych z listy, żebyś nie zaspoilerował sobie gry, jeżeli jej nie ukończyłeś. Wejdź w ustawienia edytora jeśli chcesz to zmienić.
+tutorial_4_9a=Żeby pomóc ci z szukaniem rzeczy możesz użyć przycisku szukania lub zastosować tagi, żeby znaleźć obiekty o konkretnej tematyce. Te same przyciski również się znajdują w palecie obiektów. Możesz też zacząć pisać, żeby automatycznie zacząć szukać.
+tutorial_4_9a_gpad=Żeby pomóc ci z szukaniem rzeczy możesz użyć przycisku szukania lub zastosować tagi, żeby znaleźć obiekty o konkretnej tematyce. Te same przyciski również się znajdują w palecie obiektów. Możesz też nacisnąć @gamepad_editor_currobjlist, żeby zacząć wyszukiwanie.
+tutorial_4_10a=Tak więc, wybraliśmy obiekt “Wall”; wybranie obiektu wraca cię z powrotem do palety obiektów (chyba, że przytrzymasz Control). Możesz zauważyć, że edytor dodał obiekt “Wall” i jego wersję tekstową dla ułatwienia.
+tutorial_4_10a_gpad=Tak więc, wybraliśmy obiekt “Wall”; kliknij @gamepad_editor_place, żeby wybrać obiekt, automatycznie wraca cię do palety obiektów, ale @gamepad_editor_drag pozwala ci zostać w palecie obiektów. Możesz zauważyć, że edytor dodał obiekt “Wall” i jego wersję tekstową dla ułatwienia.
+tutorial_4_11a=Jeżeli chcesz usunąć obiekt z palety, naciśnij zaznaczony przycisk i kliknij na obiekt, który chcesz usunąć, albo przytrzymaj Control i naciśnij prawym przyciskiem myszki na wybrany obiekt. Zapamiętaj, że to usunie wszystkie instancje tego obiektu z twojego poziomu, i jego wersja tekstowa, także zostanie usunięta.
+tutorial_4_11a_gpad=Jeżeli chcesz usunąć obiekt z palety, naciśnij zaznaczony przycisk i kliknij na obiekt, który chcesz usunąć, albo kliknij @gamepad_currobjlist_remove na wybrany obiekt. Zapamiętaj, że to usunie wszystkie instancje tego obiektu z twojego poziomu, i jego wersja tekstowa, także zostanie usunięta.
+tutorial_4_12a=Obok przycisku usunięcia znajduje się przycisk "edytuj obiekt". Ten przycisk pozwoli ci zmieniać konkretne właściwości obiektu, o których powiemy za chwilę. Po kliknięciu "edytuj obiekt", wybierz dany obiekt lub kliknij prawy przycisk myszy na obiekt, który chcesz edytować.
+tutorial_4_12a_gpad=Obok przycisku usunięcia znajduje się przycisk "edytuj obiekt". Ten przycisk pozwoli ci zmieniać konkretne właściwości obiektu, o których powiemy za chwilę. Po kliknięciu "edytuj obiekt", wybierz dany obiekt lub kliknij @gamepad_currobjlist_edit na obiekt, który chcesz edytować.
+tutorial_4_13a=Tu mamy okienko, które otwiera się podczas edytowania obiektu. Możesz zmienić jego kolor, teksturę (czyli to, jak wygląda) oraz jego wysokość. Sama wysokość oznacza ile obiektów może być położone na tym samym polu. Im wyższa liczba (maksymalnie 20), wym wyżej sam obiekt jest na tym stosie.
+tutorial_4_14a=Dobra, na tyle tego! Edytowanie ustawień obiektu pozwala na osiągnięcie ciekawie wyglądających scen!
+tutorial_4_15a=Na koniec, możesz przesuwać obiekty w samej palecie przeciągając je. Przytrzymaj control i kliknij na obiekt, aby go przestawiać. Dzięki temu będzie o wiele łatwiej znaleźć je wtedy, kiedy potrzebujesz!
+tutorial_4_15a_gpad=Na koniec, możesz przesuwać obiekty w samej palecie przeciągając je.  Przytrzymaj @gamepad_currobjlist_drag na obiekt, aby go przestawiać. Dzięki temu będzie o wiele łatwiej znaleźć je wtedy, kiedy potrzebujesz!
+tutorial_4_16a=I znowu jesteśmy z powrotem; oto podstawy palety obiektów. Pamiętaj o tym, że podczas tworzenia swojego poziomu możesz zawsze wybrać motyw, który już jest podany. Taka paleta obiektów ma już wszystkie pasujące tematycznie do siebie obiekty. To zaoszczędzi ci dużo czasu.
+
+
+tutorial_5_1a=...I zaczynamy znowu!
+tutorial_5_1b=Ta część samouczka zgłębi różne ustawienia i opcje podczas robienia swojego poziomu(ów).
+tutorial_5_2a=Podczas widoku edytora, spójrz na te 2 przyciski na dole: “Ustawienia” oraz “Menu”. Dla potrzeby samouczka nazwiemy je “Ustawienia poziomu” i “Menu edytora”.
+tutorial_5_2a_gpad=Podczas widoku edytora, kliknij @gamepad_editor_quickmenu aby otworzyć szybkie menu i spójrz na te 2 przyciski na dole: “Ustawienia” oraz “Menu”. Dla potrzeby samouczka nazwiemy je “Ustawienia poziomu” i “Menu edytora”.
+tutorial_5_3a=Najpierw omówimy “Ustawienia poziomu”. Użyjesz go, aby zmienić muzykę, kolory, nazwę itp.
+tutorial_5_4a=Pierwszy z kolei jest przycisk zmieniający nazwę. Całkiem oczywiste! Proszę bez nieprzyjemnych nazw bo Baba będzie zły!
+tutorial_5_5a=Drugim jest przycisk zmieniający autora poziomu. Zazwyczaj to będziesz ty! W momencie, gdy zapiszesz autora jednego poziomu, w kolejnych poziomach będzie on już zapisany automatycznie.
+tutorial_5_6a=Następny to przycisk podtytułu. Pozwala on na dodanie krótkiego tekstu, który wyświetli się tuż pod samym tytułem podczas jego odpalenia.
+tutorial_5_7a=Kolejny przycisk to muzyka. Tak jak się domyślasz, otwiera on listę muzyk, które możesz ustawić jako tło swojego poziomu.
+tutorial_5_8a=A oto przycisk efektów - on pozwala ci dodać różne dekoracje do swojego poziomu, poprzez deszczu do mrugających gwiazd. Sprytne!
+tutorial_5_9a=Przycisk palet pozwala ci zmienić kolorystykę poziomu. To ma duży wpływ na atmosferę.
+tutorial_5_10a=Następnie jest edytowanie wielkości poziomu. Tak jak się domyślasz - dzięki niemu zwiększasz lub zmniejszasz pole gry. Pamiętaj, że maksimum to 33 na 18 pól.
+tutorial_5_11a=Tam na dole jest kilka dodatkowych opcji, np.: jeżeli chcesz usunąć tylko efekty ze swojego poziomu. Do “Level Is Auto” wrócimy nieco później.
+tutorial_5_12a=Okej, to na tyle co do “Ustawienia poziomu”. Teraz spójrzmy na “Menu edytora”.
+tutorial_5_13a=Nie ma tak naprawdę większego powodu, żeby odwiedzać te menu cały czas, ponieważ te opcje są bardziej ogólne niż poprzednie.
+tutorial_5_14a=Tam na górze mamy przycisk do wrzucenia swojego poziomu do internetu. Wrócimy do niego później.
+tutorial_5_15a=Menu motywów pozwala ci zmieniać motyw poziomu jeśli sam wybrałeś niedogodny dla siebie, a także pozwala zapisywać paletę obiektów oraz sam motyw, który już stworzyłeś.
+tutorial_5_16a=Pamiętaj, że przy wybraniu nowego motywu, cała plansza będzie wyczyszczona i wszystkie obiekty będą usunięte! Kwestia bezpieczeństwa. Możesz także usunąć stare motywy z poziomu tego menu.
+tutorial_5_17a=Wracając do menu edytora, kolejny przycisk usuwa twój poziom. Przerażająca funkcja, ale czasami nie ma innej opcji.
+tutorial_5_18a=I na samym dole listy mamy przycisk kopiowania poziomu. Dzięki niemu do twojej listy poziomów zostanie dodana dokładna kopia danego poziomu. Dzięki temu można mieć kilka poziomów z tym samym podstawowym układem.
+tutorial_5_19a=To wszystko! Zalecane jest spróbować poklikać różne przyciski, aby wyczuć jak każdy działa z innymi, dzięki czemu będzie o wiele łatwiej tworzyć znakomite poziomy.
+
+
+tutorial_6_1a=Witaj!
+tutorial_6_1b=Ten samouczek wytłumaczy jak wrzucić swój poziom do internetu, aby każdy mógł w niego zagrać! Zanim jednak cokolwiek zrobisz, użytecznym będzie posiadanie już poziomu, którego chciałbyś użyć na potrzeby tego samouczka.
+tutorial_6_2a=Aby zacząć wrzucanie swojego poziomu, przejdź do Menu Edytora.
+tutorial_6_3a=Tam wybierz przycisk “Wrzuć poziom”.
+tutorial_6_4a=Edytor wyświetli podaną nazwę poziomu, autora oraz podtytuł. Upewnij się czy odpowiadają tobie wszystkie opcje oraz czy zapisałeś poziom i kliknij “Tak”!
+tutorial_6_5a=...Pamiętaj o tym, że musisz najpierw przejść swój poziom, aby go wrzucić. To pozwala wyfiltrować niemożliwe do przejścia poziomy.
+tutorial_6_6a=W momencie przejścia poziomu, edytor będzie chciał go wrzucić. Jeżeli wszystko przejdzie pomyślnie, gra pokaże ci 9 cyfrowy kod pobrania, dzięki któremu od razu będzie można go pobrać. Jeżeli nie, wyświetli się okienko z błędem
+tutorial_6_7a=Jeżeli zapomnisz kod poziomu albo chcesz go zapisać na później, główne menu edytora ma przycisk “Historia Poziomów”, dzięki któremu zobaczysz poziomy, które zrobiłeś lub ściągałeś wcześniej
+tutorial_6_8a=To tak naprawdę tyle! Nieskomplikowane. Nie zapomnij: obraźliwe lub nie akceptowalne poziomy będą usuwane z serwera. Bądź miły dla siebie i innych!
+
+
+tutorial_7_levelname=Przykładowa nazwa poziomu
+tutorial_7_author=To możesz być ty!
+tutorial_7_subtitle=Przykładowy podtytuł
+tutorial_7_1a=Okej!
+tutorial_7_1b=W tej części samouczka przejdziemy przez kolejne kroki pobierania poziomów. To jest ważne nie tylko dla samego edytora, ale zazwyczaj nie sprawia to problemów.
+tutorial_7_2a=Każdy przesłany poziom otrzymuje 9-znakowy “Kod poziomu”, który jest używany do znalezienia go w bazie poziomów. Kod składa się z dwóch mieszanek dużych liter i numerów oddzielonych myślnikiem. Większość czasu, gdy będziesz szukał poziomu to właśnie za pomocą tego kodu.
+tutorial_7_3a=By pobrać nowe poziomy; skieruj się do zakładki “Menu poziomów” lub do menu głównego edytora i wybierz opcję “Zdobądź nowe poziomy”.
+tutorial_7_4a=Dzięki temu menu, możesz wybrać jak chciałbyś pobierać nowe poziomy. “Użyj kodu poziomu” wymaga znania kodu konkretnego poziomu, na przykład poziomu twojego znajomego.
+tutorial_7_5a=”Wyróżnione poziomy” pozwala ci na spojrzenie na listę interesujących poziomów wybranych przez nas. Ta lista będzie się zmieniać raz na jakiś czas, żeby pokazać nowe znaleziska. Wybranie poziomu z tej listy przeniesie cię do okienka wpisywania kodów, już z wpisanym kodem poziomu.
+tutorial_7_6a=Jeśli twoja próba pobrania powiedzie się, ujrzysz to menu. Tutaj możesz podejrzeć podstawowe informacje o poziomie i zdecydować co chcesz z nim zrobić.
+tutorial_7_7a=”Zagraj teraz, bez zapisu” robi dokładnie to, co myślisz; uruchomisz poziom, który pobrałeś i kiedy skończysz, będziesz musiał pobrać go ponownie by w niego zagrać
+tutorial_7_8a=”Zapisz poziom” zapisuje poziom do listy poziomów, po czym daję ci opcje do uruchomienia go lub powrotu do menu głównego
+tutorial_7_9a=Podczas grania poziomu, który pobrałeś, podczas pauzy znajdziesz przycisk “zgłoś poziom”. Jeżeli poziom jest obraźliwy, czujesz się przez niego źle lub narusza według ciebie zasady gry, kliknij ten przycisk, aby go zgłosić. Przejdziemy przez zgłoszone poziomy i usuniemy te, które na to zasługują. Dziękujemy za pomoc!
+tutorial_7_10a=Nic więcej do roboty oprócz tego. Całkiem proste, nie uważasz?
+tutorial_7_10a_n=Nic więcej do roboty oprócz tego. Całkiem proste, nie uważasz? Pamiętaj, że na twoim urządzeniu może się znajdować nie więcej niż 100 poziomów, wliczając pobrane oraz zrobione przez ciebie.
+
+
+tutorial_8_1a=Cześć!
+tutorial_8_1b=W tym samouczku przejdziemy przez wiele użytecznych skrótów klawiszowych, które przyspieszają tworzenie poziomów. Nie martw się, jeżeli ich nie zapamiętasz. One zawsze będą dostępne nad tymi samouczkami, w sekcji pomocy edytora.
+tutorial_8_2a=Zacznijmy od listy poziomów. Jeżeli chcesz się szybko pozbyć poziomu z listy, kliknij na niego prawym przyciskiem myszy. Oczywiście, zawsze będzie potwierdzenie usunięcia.
+tutorial_8_2a_gpad=Zacznijmy od listy poziomów. Jeżeli chcesz się szybko pozbyć poziomu z listy, kliknij @gamepad_editor_undo. Oczywiście, zawsze będzie potwierdzenie usunięcia.
+tutorial_8_3a=W tym, jak i innym menu z możliwością szukania, możesz już zacząć szukać wpisując już daną frazę!
+tutorial_8_3a_gpad=W tym, jak i innym menu z możliwością szukania, możesz już zacząć szukać klikając @gamepad_editor_currobjlist oraz zmieniać strony klikając @gamepad_editor_scrollleft_hotbar & @gamepad_editor_scrollright_hotbar oraz skakać kilka stron na raz przy pomocy @gamepad_editor_scrollleft_tool & @gamepad_editor_scrollright_tool !
+tutorial_8_4a=Reszta samouczka będzie poświęcona samemu edytorowi.
+Zaczniemy od głównego widoku edytora.
+tutorial_8_5a=Kliknięcie i przytrzymanie "F" odkrywa skierowanie każdego obiektu na warstwie, którą edytujesz.
+tutorial_8_5a_gpad=Przytrzymanie @gamepad_editor_altpress i @gamepad_editor_showdir odkrywa skierowanie każdego obiektu na warstwie, którą edytujesz.
+tutorial_8_6a=Klawisze W, A, S i D pozwalają przesuwać wszystkie obiekty na raz. Przydaje się to w sytuacji, gdzie cała struktura nie jest wyśrodkowana.
+tutorial_8_6a_gpad=Przytrzymanie @gamepad_editor_moveall oraz kliknięcie @gamepad_editor_rotate pozwalają przesuwać wszystkie obiekty na raz. Przydaje się to w sytuacji, gdzie cała struktura nie jest wyśrodkowana.
+tutorial_8_7a=Przytrzymanie Control i kliknięcie środkowym przyciskiem myszy na dane pole usuwa wszystkie obiekty, z każdej warstwy. Jeżeli nie jesteś zadowolony z całego poziomu, Control i Delete usuwają całą planszę na raz.
+tutorial_8_7a_gpad=Przyrzymanie @gamepad_editor_altpress i kliknięcie @gamepad_editor_emptytile na dane pole usuwa wszystkie obiekty, z każdej warstwy.
+tutorial_8_8a=Kliknięcie F3 pozwala na szybką zmianę między testowaniem poziomu a widokiem edytora. Przycisk R od razu przerzuca cię do dodawania nowych obiektów do twojej palety. Jest też kilka przycisków, które pomogą w tworzeniu zasad: I wybiera "IS", U wybiera "AND", Y wybiera "NOT" oraz Q wybiera nic. Kliknięcie Control i S w tym samym czasie zapisuje poziom.
+tutorial_8_8a_gpad=Przytrzymanie @gamepad_editor_altpress i kliknięcie @gamepad_editor_currobjlist pozwala przetestować poziom natychmiast, a przytrzymanie @gamepad_editor_altpress i kliknięcie @gamepad_editor_quickmenu zapisuje go. Wskazówka: @gamepad_editor_altpress + @gamepad_editor_emptytile wybiera "nic" jako domyślny obiekt.
+tutorial_8_9a=Kliknięcie F4 w głównym widoku edytora pozwoli ci wpisać jakąś frazę. Wtedy gra znajduje wszystkie obiekty ze słowami danymi we frazie (o ile istnieją). Na przykład, jeśli wpiszesz "Baba Is You", gra zwróci tobie selekcję obiektów "Baba", "Is", oraz "You", dodając je do twojej palety, jeżeli już tam nie były! Bardzo przydatne, jeżeli wiesz czego szukasz.
+tutorial_8_9a_gpad=Przytrzymanie @gamepad_editor_altpress i kliknięcie @gamepad_editor_autopick w głównym widoku edytora pozwoli ci wpisać jakąś frazę. Wtedy gra znajduje wszystkie obiekty ze słowami danymi we frazie (o ile istnieją). Na przykład, jeśli wpiszesz "Baba Is You", gra zwróci tobie selekcję obiektów "Baba", "Is", oraz "You", dodając je do twojej palety, jeżeli już tam nie były! Bardzo przydatne, jeżeli wiesz czego szukasz.
+tutorial_8_10a=Istnieje także kilka innych trików w samej palecie obiektów!
+tutorial_8_11a=Kliknięcie na obiekt prawym przyciskiem myszy pozwala edytować każdy aspekt tego obiektu. Jeżeli natomiast przytrzymasz przy tym Control, usunie to ten obiekt z palety obiektów. Pamiętaj, że w momencie, gdy wybrany jest tryb grupowania, scrollowanie zamieni obiekty z ich odpowiednimi słowami.
+tutorial_8_11a_gpad=Kliknięcie @gamepad_currobjlist_edit na obiekt prawym przyciskiem myszy pozwala edytować każdy aspekt tego obiektu. Natomiast kliknięcie @gamepad_currobjlist_remove usunie ten obiekt z palety obiektów.
+tutorial_8_12a=Kliknięcie F4 będąc w palecie obiektów pozwoli ponownie wpisać cokolwiek, tylko tym razem, będą dodane tylko do danej palety (jeżeli istnieją, i już nie są w palecie).
+tutorial_8_12a_gpad=Przytrzymanie @gamepad_editor_altpress i kliknięcie @gamepad_currobjlist_autoadd będąc w palecie obiektów pozwoli ponownie wpisać cokolwiek, tylko tym razem, będą dodane tylko do danej palety (jeżeli istnieją, i już nie są w palecie).
+tutorial_8_13a=Jest kilka innych pomocnych narzędzi, ale przeszliśmy przez najważniejsze z nich. Pamiętaj, że zawsze masz podgląd do skrótów klawiszowych w menu edytora, aby zmaksymalizować swoją efektywność!
+
+
+tutorial_9_1a=W takim razie...
+tutorial_9_1b=Ten samouczek nauczy cię nie tyle samego używania edytora, co bardziej przedstawi pomocne wskazówki dotyczące logiki i ogólnego designu poziomu.
+tutorial_9_2a=Te wskazówki pomogą ci stworzyć zagadki w swoich poziomach. Istnieje kilka różnych sposobów podejścia do składania zagadek. Dla każdego inny sposób będzie działał najlepiej. Postaram się wytłumaczyć metodę, która była najlepsza dla mnie i pomogła mi w tworzeniu wielu oryginalnych poziomów w “Baba Is You”. Oczywiście, zawsze możesz stworzyć auto-poziomy, scenerie czy zwykłe plansze bez zagadek! Pamiętaj jednak, aby wrzucić taki poziom do internetu, musi istnieć warunek wygranej, nawet, jeśli ma być sprytnie schowany gdzieś w rogu mapy.
+tutorial_9_3a=Zanim zaczniemy: podczas tworzenia frustrujących, nieprzyjemnych dla oka czy posiadających np: jumpscare’y poziomów można się świetnie bawić. Dobrze wykonany trik może być naprawdę fajny, ale proszę pamiętać, że szybko migające światła mogą być szkodliwe dla niektórych graczy. Patrząc na poziomy zawierające proste i wnerwiające chwyty mogły zostać już wykorzystane w innych poziomach, więc tworzenie takich nie jest zalecane. W każdym razie, poziomy stworzone tylko, aby wnerwić gracza będą prawdopodobnie usunięte.
+tutorial_9_4a=Zaczynając - bardzo ważną rzeczą, która pomaga w ogólnym odbiorze poziomu jest posiadanie motywu przewodniego; jakiś rodzaj $1,4”przekazu”$0,3 czy $1,3zwrotu akcji$0,3, wokół którego poziom jest zbudowany. Czasami jeden poziom może mieć wiele takich, ale warto spróbować zgłębić pojedynczego tematu tak mocno, jak się tylko da. W dużej ilości moich oryginalnych poziomów, był zawsze jakiś moment zaczepny który miał doprowadzić do momentu $2,4”eureka”$0,3. Pomagało to nie tylko w ogólnej strukturze poziomu, ale też sprawiało, że poziom nie był niepotrzebnie zagmatwany.
+tutorial_9_5a=W takim razie, jak dojść do takiego punktu zaczepnego? Wmuszanie w siebie wielkich pomysłów nie jest najłatwiejsze, ale wyobrażanie możliwych ścieżek lub bawienie się w edytorze może sprawić, że doznasz inspiracji. Zazwyczaj wolę użyć słów, mechanik i innych składników i próbuję łączyć je w celu uzyskania niespodziewanych lub zjawiskowych efektów; takich, które zachwycą gracza znajdującego rozwiązanie. Najlepsze interakcje to takie, których da się domyślić i po przemyśleniach zawsze mają sens, ale są w jakimś stopniu niespodziewane.
+tutorial_9_6a=Kolejnym ważnym aspektem jeśli chodzi o tworzenie zagadek jest ilość słów i zasad użytych i potrzebnych do jej rozwiązania, czyli $4,2”estetyka”$0,3 poziomu. Gdy wpadnę na interakcję która jest inspirująca, próbuję stworzyć poziom wykorzystujący tą interakcję i blokując inne. Przekazanie innym osobom takiej mapy do przetestowania, jest o wiele lepszym pomysłem. Testując samemu, często zauważam, czy blokowanie innych rozwiązań wymaga o wiele za dużo ekstra słów i zasad.
+tutorial_9_6b=Moim zdaniem, poziom staje się bardzo nieestetyczny w momencie, gdy wymaga od gracza osiągnięcia kilku specyficznych interakcji. O wiele lepszym byłoby zablokowanie niechcianego rozwiązania przy pomocy $2,3”Baba Is Baba”$0,3, lub zmieniając nieco sam kształt poziomu, niż używając np.: $2,2”Baba Is Not Rock And Not Wall And Not Flag”$0,3.
+tutorial_9_7a=Ta idea "estetyki" może być także zastosowana do samej struktury planszy. W każdym poziomie w "Baba Is You" gracz musi zrozumieć wiele różnych rzeczy, między innymi same zasady. Miłym gestem jest zbudowanie poziomu, który nie wymaga dużo czasu na jego zrozumienie. Częściowo zależy to od wspomnianego wcześniej usuwania zbędnych słów i zasad.
+tutorial_9_7b=Drugą połową tego jest sam wygląd. Dekorowanie swojego poziomu może wyjść naprawdę ładnie, ale pamiętaj, aby nie zasłaniało to samych słów. Spraw, aby gracz nie szukał po całej mapie zasad, tylko miał je zawsze w widocznym miejscu. Dodatkowo, zasady, których gracz ma nie modyfikować, warto "odkładać na bok" tak, aby także i one były dobrze widoczne.
+tutorial_9_8a=To doprowadza nas do tematu $2,2"fałszywych tropów"$0,3, czyli elementów, które wydają się ważne, ale nigdzie nie prowadzą. Moja opinia na temat takich elementów zmieniała się przez długi czas, ale w tej chwili powiedziałbym, że jeżeli istnieją one tylko, by zmylić gracza, to jest to niemiłe i niestosowne. Ponadto, sztuczne zaśmiecanie poziomu zmusza obie strony do ekstra pracy. Najlepiej ograniczyć się do rzeczy, które naprawdę są potrzebne (oczywiście $1,4oprócz dekoracji$1,4!)
+tutorial_9_8b=Prawdę mówiąc, konstruowanie od czasu do czasu prostej i krótkiej zmyłki może okazać się ciekawym doświadczeniem, a po czasie nawet zabawnym wspomnieniem.
+tutorial_9_9a=Podczas zgłębiania mechanik "Baba Is You", można łatwo zapomnieć, że składnie i zasady mogą wymagać bardzo dobrej znajomości samej gry. Napotkałem się na ciekawy problem: będąc autorem samej logiki tej gry, tworzyłem zagadkę wymagając od gracza znajomości całej tej logiki. Podczas tworzenia własnego poziomu warto przemyśleć dla kogo tworzy się dany poziom; dla ekspertów tej gry nie będzie trudno zrozumieć pewnych chwytów logicznych, lecz tym samym dla innych będą one sprawiały wrażenie nieprzebijalnej ściany.
+tutorial_9_10a=Na koniec: kilka słów na temat dekoracji. Jak było wcześniej wspomniane, najważniejsze, aby nie zamglić samego zrozumienia zasad. Dodatkowo, kładąc dużo dekoracji w samej strefie, gdzie będzie poruszał się gracz może sprawić, że będzie on kompletnie nieczytelny. Dla przykładu: niektóre słowa $1,4(takie jak "Weak")$1,4 mogą nawet wpłynąć na same dekoracje w taki sposób, że przez przypadek sprawią, że poziom będzie niewygrywalny.
+tutorial_9_10b=Dobrym pomysłem jest także utrzymywać kształt struktur ważnych dla zagadki bardziej prosty, nawet, jeżeli wygląda to nienaturalnie. Proste, kwadratowe oczko pomoże graczowi zrozumieć o co chodzi w poziomie o wiele bardziej niż rozległe jezioro. Wtedy możesz postawić bardziej naturalne i dzikie dekoracje na krawędziach mapy aby dodać pewnego smaczku.
+tutorial_9_11a=I to tyle! Zapamiętaj, że to są moje osobiste obserwacje i opinie na temat tworzenia zagadek; inni ludzie mogą $1,4(i będą)$0,3 nie zgadzać się z powyższymi, do czego oczywiście mają prawo. Ostatecznie to ty decydujesz, jakie poziomy tworzysz. Danie innym przetestować swoje pomysły to często najlepszy sposób, aby dowiedzieć się, czy idziesz w dobrym kierunku. Mam nadzieje, że moje podpowiedzi były przydatne! Baw się dobrze!
+tutorial_10_1a=Witaj ponownie!
+tutorial_10_1b=Oto przed tobą instrukcja pokonania $2,2Czerwonego Smoka$0,3, sekretnego superbossa, którego znajdziesz na $2,3Ognistych Szczytach$0,3 na końcu Dysku 4. Ta instrukcja zakłada, że już jesteś zaznajomiony z podstawowymi mechanikami gry, ale też bardziej zaawansowanymi, takimi jak $2,4Przeciążenie Przyjaźni$0,3, $1,4Żąglowanie Pancerzem$0,3 oraz $1,2Snem o Przyszłość$0,3.
+tutorial_10_2a=Zanim wyruszysz na $2,3Ogniste Szczyty$0,3, upewnij się, czy masz dokładnie 45 $5,3Dużych Mikstur$0,3, przynajmniej 1 $0,2Szczypawkę Tarczową$0,3 i trochę zapasowych $2,2Kamieni Mocy Hydrantowych$0,3. Także, twoja drużyna powinna mieć przynajmniej 24 poziom, ponieważ $2,3Ogniste Szczyty$0,3 to strefa finałowa. Ulepszanie $2,2Keke$0,3 do poziomu 25 może być użyteczne, ponieważ na tym poziomie uczy się umiejętności $1,3Float$0,3.
+tutorial_10_3a=$2,2Czerwony Smok$0,3 przemieszcza się losowo między pokojami na $2,3Ognistych $2,3Szczytach$0,3; pokój z fontanną lawy jest najbezpieczniejszy, ponieważ jest blisko punktu zapisu, także pozwalając ci szybko zmienić $5,2Pakt $5,2Lojalności$0,3. Kiedy zobaczysz $2,2Czerwonego Smoka$0,3 na ekranie, każ $5,2Fofo$0,3 użyć $1,2Hide$0,3 na całą swoją drużynę. Zacznij atak z zaskoczenia używając $1,4Dash$0,3 $4,1Baby$0,3. Pamiętaj, że $2,2Czerwony Smok$0,3 jest chroniony przed atakami z dołu, lepiej atakować od góry.
+tutorial_10_4a=Po rozpoczęciu walki, użyj swojej przewagi i zamień $4,1Babię$0,3 $1,2Koronę Skradania$0,3 na $2,2Ognistą perukę$0,3 i przesuń to na przód. Jeśli $2,3Jiji$0,3 ma w zapasie jakieś $2,2Habanero$0,3, użyj umiejętności $6,2Gotowanie$0,3, aby przygotować $2,4Pikantny Sos Mango-Habanero$0,3 na później.
+tutorial_10_5a=$2,2Czerwony Smok$0,3 zawsze zaczyna swoją turę używając $2,1Taniec Płomieni$0,3. $2,2Keke$0,3 i $2,4Baba$0,3 prawdopodobie będą zauroczone tym ruchem, ale $5,2Fofo$0,3 jest odporne na ruchy taneczne, przy czym Papierowa Maska $2,3Jiji$0,3 zablokuje negatywny efekt. $2,2Keke$0,3 zostanie w stanie zauroczenia, ale możesz wyrwać $4,1Babę$0,3 z tego efektu poprzez pogłaskanie po głowie. Jeśli pogłaskanie nie trafi, najbezpieczniej będzie zrestartować podejście, bez tego zwycięstwo jest w twoim zasięgu.
+tutorial_10_6a=W tym momencie niech $5,2Fofo$0,3 zacznie ładować swoją $5,3Szczęśliwą Pieśń$0,3, gdy $4,1Baba$0,3 i $2,3Jiji$0,3 użyją swoich $2,2Kamieni Mocy Hydrantowych$0,3, aby schłodzic $2,2Smoka$0,3. $2,2Keke$0,3 może użyć swojej umiejętności $1,3Float$0,3, aby uniknąć $2,3Floor Is Lava$0,3. Kontynuuj tą strategię, dopóki $2,2Smok$0,3 nie będzie dostatecznie schłodzony. Jeżeli będzie potrzeba, wypij $5,3Duże Mikstury$0,3.
+tutorial_10_7a=W końcu $2,2Czerwony Smok$0,3 zupełnie się schłodzi. Gdy $2,2Smok$0,3 zmieni swoje $2,2Gniewne Tupnięcia$0,3 na $2,2Podirytowane Klepnięcia$0,3, przesuń $2,2Keke$0,3 do przodu i zaserwuj $2,2Smokowi$0,3 swoją $2,4Wyśmienitą Potrawę$0,3. Jeżeli $2,3Jiji$0,3 miał czas na przygotowanie $2,4Pikantnego Sosu$0,3, dodaj go do $2,4Potrawy$0,3, aby zwiększyć szansę na sukces. Uwaga! $2,2Czerwony Smok$0,3 jest $5,3Weganinem$0,3, także dobrze wybierz co mu podajesz. Bum! Przyjaźń osiągnięta!
+tutorial_10_8a=No i proszę bardzo! Dzięki wygranej nie tylko zdobywasz nowego fajnego wierzchowca, ale też masz 80% szans na zdobycie $0,1Myszy dla Graczy $0,1"Smocze Łuski"$0,3, które na pewno będzie lepsze niż cokolwiek $5,2Fofo$0,3 ma w tej chwili założone.
+tutorial_10_9a=Dziękuję za przeczytanie tej instrukcji i powodzenia w łowach na $2,2Czerwonego Smoka$0,3!
+
+
+museum_101level=Witaj w muzeum!
+museum_102level=pracownik fabryki
+museum_103level=za kulisami
+museum_104level=pociąg 2
+museum_105level=przetasowanie
+museum_106level=kotlarstwo 2
+museum_107level=grzybowy test 2
+museum_108level=bezpieczny
+museum_10level=uczucie
+museum_113level=ognista czeluść
+museum_114level=kruche istnienie - stare
+museum_125level=upadłe słowa
+museum_126level=kotlarstwo
+museum_12level=oddzielony cieczami
+museum_134level=słaby sygnał
+museum_13level=Babas Are You
+museum_140level=ciężkie wzmocnienia
+museum_143level=blok mieszkalny
+museum_14level=bardzo zamknięty korytarz
+museum_152level=grzybowy test
+museum_154level=ukryty ogród
+museum_15level=początkujący ślusarz
+museum_16level=delikatne pudełko
+museum_19level=zwycięska skrzynia
+museum_204level=key
+museum_20level=pokryty lodem
+museum_213level=move
+museum_24level=cmentarz
+museum_256level=po godzinach
+museum_259level=podwójna izolacja
+museum_25level=proszę, dotrzyj do flagi
+museum_267level=forteca 2
+museum_26level=strażnik keke
+museum_276level=pociąg
+museum_27level=ochrona
+museum_290level=słowo - niedostępne
+museum_296level=x to y 2
+museum_300level=działo
+museum_311level=brelok
+museum_321level=bezpieczna chatka
+museum_328level=tunel
+museum_34level=baba nie odpowiada
+museum_35level=komnata pośród chmur
+museum_36level=kościani przyjaciele
+museum_38level=zasady parku publicznego
+museum_39level=zbrodnia doskonała a
+museum_40level=niebezpieczny ogród
+museum_41level=dom a
+museum_42level=dom b
+museum_43level=dom c
+museum_44level=dom d
+museum_45level=dom e
+museum_46level=zbrodnia doskonała b
+museum_50level=za rzeką
+museum_52level=widzenie tunelowe
+museum_53level=forteca
+museum_55level=niezmienny a
+museum_56level=niezmienny b
+museum_60level=samotny widok
+museum_61level=ćwiartki
+museum_62level=telefon
+museum_63level=zardzewiałe drzwi
+museum_65level=powrót
+museum_66level=zakręcone dróżki
+museum_68level=połączenie bezprzewodowe
+museum_73level=mech u progu mych drzwi
+museum_74level=skrzyżowania
+museum_79level=muzeum niewykorzystanych poziomów
+museum_80level=stary kanał
+museum_81level=kran
+museum_82level=bezpieczna chatka - wstęp
+museum_83level=zwycięstwo poprzez spalenie
+museum_84level=muzeum poprawek
+museum_85level=muzeum
+museum_86level=winda
+museum_87level=podstawy!
+museum_88level=podstawy?
+museum_92level=podróżnicy
+museum_94level=niepodejrzewający tłum
+museum_95level=mysia nora
+museum_96level=harmonia
+museum_97level=pola baby
+museum_d68level=połączenie bezprzewodowe 2
+museum_x103level=ochroniarze
+museum_x135level=nieskończony korytarz
+museum_x148level=wycieczka
+museum_x164level=wielozadaniowy
+museum_x195level=niechciany gość
+museum_x20level=lodowate wody
+museum_x59level=warunkowy
+museum_x70level=pułapka-klasyk
+museum_x98level=klucz na widoku
+museum_y103level=tunel konserwacyjny
+museum_y128level=zgromadzenie
+museum_y138level=jeszcze mniej
+museum_y139level=szpara
+museum_y246level=szopa
+museum_y317level=słomka
+museum_y322level=majestatyczne kolumny
+museum_y326level=orkiestra
+museum_y39level=osada
+museum_y40level=osada 2
+museum_y50level=prawie
+museum_y7level=złap złodzieja!
+museum_y85level=kanion
+museum_y8level=zamknięty na klucz
+museum_yylevel=twarde ciecze
+museum_spoilerlevel=uwaga!
+
+
+new_adv_17level=Poplątana ścieżka
+new_adv_18level=Wschód księżyca, zachód słońca
+new_adv_19level=Co baba je?
+new_adv_1blevel=OOOOO OO O OOO
+new_adv_20level=Byłem zbyt głodny...
+new_adv_21level=Zdmuchnij świeczki
+new_adv_22level=Szybka Baba
+new_adv_23level=Przystawka
+new_adv_24level=Pyszne słowa
+new_adv_25level=Jestem Bogiem!
+new_adv_26level=Niepokojące
+new_adv_27level=Bunkier
+new_adv_28level=Droga zaopatrzeniowa
+new_adv_29level=Więcej Strachu
+new_adv_30level=Sztuczka magiczna
+new_adv_31level=Wywrócony
+new_adv_32level=Magazyn
+new_adv_33level=Mimika
+new_adv_35level=Sejf
+new_adv_36level=Antyczne korytarze
+new_adv_37level=Nawiedzone spa
+new_adv_38level=Kuksać
+new_adv_39level=Uważaj
+new_adv_40level=Bez duplikatów
+new_adv_41level=Nowe przygody!
+new_adv_42level=Dom Baby
+new_adv_43level=Ostatnia przekąska
+new_adv_44level=Baba potrzebuje przyjaciół
+new_adv_45level=Tak jak jest napisane
+new_adv_46level=Komnata grawitacyjna
+new_adv_47level=WallWallWall
+new_adv_48level=Koniec
+new_adv_49level=System bezpieczeństwa
+new_adv_50level=Przygotuj scenę
+new_adv_51level=Brama niebios
+new_adv_52level=Błyszcząca drabina
+new_adv_53level=Głębokie drzwi
+new_adv_54level=Dostęp do piwnicy
+new_adv_55level=Pod podłogą
+new_adv_56level=Jump up, Babastar
+new_adv_57level=Danie główne
+new_adv_58level=Przystawka
+new_adv_59level=Deser
+new_adv_60level=Bunkier 2
+new_adv_62level=Kominek bokiem
+new_adv_63level=Brama Niebios 2
+new_adv_64level=Pokój tajemnic
+new_adv_65level=Zmieszana tożsamość
+new_adv_66level=Słoneczny bulwar
+new_adv_67level=Zdradzieckie mokradła
+new_adv_69level=Najostatniejsza przekąska
+new_adv_70level=Kamizelka bezpieczeństwa
+new_adv_71level=Podróż w czasie
+new_adv_72level=Ciasny zagajnik
+new_adv_73level=Entomologia
+new_adv_74level=Zapora ogniowa
+new_adv_76level=Spotkanie w środku nocy
+new_adv_77level=Sekret snów
+new_adv_78level=Widz
+new_adv_79level=Macierz
+new_adv_80level=Szkodliwa obecność
+new_adv_81level=Niszczycielska obecność
+new_adv_82level=Schowany w krzakach
+new_adv_83level=Zamek szyfrowy
+new_adv_84level=Pod kluczem
+new_adv_85level=Tropikalna pogoda
+new_adv_86level=OOOOOOOO
+new_adv_87level=ABAB CD EFG
+new_adv_89level=(BABA)
+new_adv_90level=Pasza
+new_adv_92level=BABABABABA
+new_adv_93level=Nietykalny
+new_adv_a22level=Czuwająca trójca
+new_adv_a30level=Psychokineza
+new_adv_y4level=Głupi żart
+new_adv_y9level=Reflektory
+new_adv_ph1level=Wspomnienia
+new_adv_ph2level=Tam i z powrotem
+new_adv_ph3level=Musical!
+new_adv_ph4level=Wyluzowany
+new_adv_ph5level=Przekorny los
+new_adv_ph6level=Drgania
+new_adv_ph7level=Taniec szczęścia
+new_adv_ph8level=Eksperyment
+new_adv_ph9level=Znajomy Świat
+new_adv_ph9level=Świat Dziwadeł
+new_adv_ph10level=Gwiaździsty Świat
+new_adv_ph11level=Świat przysmaków
+new_adv_ph12level=Świat pojazdów
+new_adv_ph13level=Świat Świat Świat
+new_adv_ph14level=Dyrygent Baba!
+new_adv_ph15level=Dyrygent Keke!
+new_adv_ph16level=Dyrygent Duch?
+new_adv_ph17level=Na ryby
+new_adv_ph18level=Zniszczony świat
+new_adv_ph19level=Świat czasu
+new_adv_ph20level=Kim jestem?
+new_adv_ph21level=Dokąd zmierzam?
+new_adv_ph22level=Co to?
+new_adv_ph23level=Po co to wszystko?
+new_adv_ph24level=Długo i szczęśliwie
+new_adv_ph25level=Fofo i Jiji
+new_adv_ph26level=Strój robota
+new_adv_ph27level=Prace budowlane
+new_adv_ph28level=Przewóz
+new_adv_ph29level=Podróż morska
+new_adv_ph30level=Oto ty!
